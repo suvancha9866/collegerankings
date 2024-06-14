@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia;
+    background-color: black;
+    color: orange;
+    margin: 5px;
+}
+/*
+.dropdown > .Select-control {
+    width: 90%;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(48, 48, 48);
+}
+*/
+
+#dropdown .Select-control {
+    background-color: rgb(55, 55, 55) !important;
+    color:white;
+    margin: 0 auto;
+}
+
+#dropdown .Select-menu-outer {
+    background-color: rgb(81, 81, 81);
+    color: white;
+    width: 85%;
+    border-radius: 20px;
+    margin: 0 auto
+}
+

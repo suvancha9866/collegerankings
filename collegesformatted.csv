@@ -1,0 +1,2891 @@
+,Name,State,Conference,PrivatePublic,Year,Rank
+0,Princeton University,NJ,Ivy League,Private,2024,1
+1,Massachusetts Institute of Technology,MA,NEWMAC,Private,2024,2
+2,Harvard University,MA,Ivy League,Private,2024,3
+3,Stanford University,CA,ACC,Private,2024,3
+4,Yale University,CT,Ivy League,Private,2024,5
+5,University of Pennsylvania,PA,Ivy League,Private,2024,6
+6,California Institute of Technology,CA,SCIAC,Private,2024,7
+7,Duke University,NC,ACC,Private,2024,7
+8,Brown University,RI,Ivy League,Private,2024,9
+9,Johns Hopkins University,MD,Centennial,Private,2024,9
+10,Northwestern University,IL,Big 10,Private,2024,9
+11,Columbia University,NY,Ivy League,Private,2024,12
+12,Cornell University,NY,Ivy League,Private,2024,12
+13,University of Chicago,IL,UAA,Private,2024,12
+14,University of California-Berkeley,CA,ACC,Public,2024,15
+15,University of California-Los Angeles,CA,Big 10,Public,2024,15
+16,Rice University,TX,AAC,Private,2024,17
+17,Dartmouth College,NH,Ivy League,Private,2024,18
+18,Vanderbilt University,TN,SEC,Private,2024,18
+19,University of Notre Dame,IN,ACC,Private,2024,20
+20,University of Michigan-Ann Arbor,MI,Big 10,Public,2024,21
+21,Georgetown University,DC,Big East,Private,2024,22
+22,University of North Carolina-Chapel Hill,NC,ACC,Public,2024,22
+23,Carnegie Mellon University,PA,UAA,Private,2024,24
+24,Emory University,GA,UAA,Private,2024,24
+25,University of Virginia,VA,ACC,Public,2024,24
+26,Washington University in St. Louis,MO,UAA,Private,2024,24
+27,University of California-Davis,CA,BWC,Public,2024,28
+28,University of California-San Diego,CA,BWC,Public,2024,28
+29,University of Florida,FL,SEC,Public,2024,28
+30,University of Southern California,CA,Big 10,Private,2024,28
+31,University of Texas-Austin,TX,SEC,Public,2024,32
+32,Georgia Institute of Technology,GA,ACC,Public,2024,33
+33,University of California-Irvine,CA,BWC,Public,2024,33
+34,New York University,NY,UAA,Private,2024,35
+35,University of California-Santa Barbara,CA,BWC,Public,2024,35
+36,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2024,35
+37,University of Wisconsin-Madison,WI,Big 10,Public,2024,35
+38,Boston College,MA,ACC,Private,2024,39
+39,Rutgers University-New Brunswick,NJ,Big 10,Public,2024,40
+40,Tufts University,MA,NESCAC,Private,2024,40
+41,University of Washington,WA,Big 10,Public,2024,40
+42,Boston University,MA,Patriot,Private,2024,43
+43,Ohio State University-Columbus,OH,Big 10,Public,2024,43
+44,Purdue University,IN,Big 10,Public,2024,43
+45,University of Maryland,MD,Big 10,Public,2024,46
+46,Lehigh University,PA,Patriot,Private,2024,47
+47,Texas A&M University-College Station,TX,SEC,Public,2024,47
+48,University of Georgia,GA,SEC,Public,2024,47
+49,University of Rochester,NY,UAA,Private,2024,47
+50,Virginia Polytechnic Institute and State University,VA,ACC,Public,2024,47
+51,Wake Forest University,NC,ACC,Private,2024,47
+52,Case Western Reserve University,OH,UAA,Private,2024,53
+53,College of William and Mary,VA,CAA,Public,2024,53
+54,Florida State University,FL,ACC,Public,2024,53
+55,Northeastern University,MA,CAA,Private,2024,53
+56,University of Minnesota,MN,Big 10,Public,2024,53
+57,Stony Brook University,NY,CAA,Public,2024,58
+58,University of Connecticut,CT,Big East,Public,2024,58
+59,Brandeis University,MA,UAA,Private,2024,60
+60,Michigan State University,MI,Big 10,Public,2024,60
+61,North Carolina State University,NC,ACC,Public,2024,60
+62,Pennsylvania State University-University Park,PA,Big 10,Public,2024,60
+63,Rensselaer Polytechnic Institute,NY,Liberty,Private,2024,60
+64,Santa Clara University,CA,WCC,Private,2024,60
+65,University of California-Merced,CA,CCAA,Public,2024,60
+66,George Washington University,DC,A-10,Private,2024,67
+67,Syracuse University,NY,ACC,Private,2024,67
+68,University of Massachusetts-Amherst,MA,A-10,Public,2024,67
+69,University of Miami,FL,ACC,Private,2024,67
+70,University of Pittsburgh,PA,ACC,Public,2024,67
+71,Villanova University,PA,Big East,Private,2024,67
+72,Binghamton University,NY,AmEast,Public,2024,73
+73,Indiana University-Bloomington,IN,Big 10,Public,2024,73
+74,Tulane University,LA,AAC,Private,2024,73
+75,Colorado School of Mines,CO,RMC,Public,2024,76
+76,Pepperdine University,CA,WCC,Private,2024,76
+77,Stevens Institute of Technology,NJ,MAC,Private,2024,76
+78,University of Buffalo,NY,MAC,Public,2024,76
+79,University of California-Riverside,CA,BWC,Public,2024,76
+80,University of Delaware,DE,C-USA,Public,2024,76
+81,Rutgers University-Newark,NJ,NJAC,Public,2024,82
+82,University of California-Santa Cruz,CA,C2C,Public,2024,82
+83,University of Illinois-Chicago,IL,MVC,Public,2024,82
+84,Worcester Polytechnic Institute,MA,NEWMAC,Private,2024,82
+85,Clemson University,SC,ACC,Public,2024,86
+86,Marquette University,WI,Big East,Private,2024,86
+87,New Jersey Institute of Technology,NJ,AmEast,Public,2024,86
+88,Fordham University,NY,A-10,Private,2024,89
+89,Southern Methodist University,TX,ACC,Private,2024,89
+90,Temple University,PA,AAC,Public,2024,89
+91,University of South Florida,FL,AAC,Public,2024,89
+92,Auburn University,AL,SEC,Public,2024,93
+93,Baylor University,TX,Big 12,Private,2024,93
+94,Gonzaga University,WA,WCC,Private,2024,93
+95,Loyola Marymount University,CA,WCC,Private,2024,93
+96,University of Iowa,IA,Big 10,Public,2024,93
+97,Drexel University,PA,CAA,Private,2024,98
+98,Illinois Institute of Technology,IL,NACC,Private,2024,98
+99,Rochester Institute of Technology,NY,Liberty,Private,2024,98
+100,Rutgers University-Camden,NJ,NJAC,Public,2024,98
+101,Texas Christian University,TX,Big 12,Private,2024,98
+102,University of Oregon,OR,Big 10,Public,2024,98
+103,University of San Diego,CA,WCC,Private,2024,98
+104,American University,DC,Patriot,Private,2024,105
+105,Arizona State University-Tempe,AZ,Big 12,Public,2024,105
+106,California State University-Long Beach,CA,BWC,Public,2024,105
+107,CUNY-City College,NY,BWC,Public,2024,105
+108,George Mason University,VA,A-10,Public,2024,105
+109,Saint Louis University,MZ,A-10,Private,2024,105
+110,San Diego State University,CA,MW,Public,2024,105
+111,University of Colorado-Boulder,CO,Big 12,Public,2024,105
+112,University of Tennessee,TN,SEC,Public,2024,105
+113,Yeshiva University,NY,,Private,2024,105
+114,Brigham Young University,UT,Big 12,Private,2024,115
+115,Howard University,DC,MEAC,Private,2024,115
+116,Iowa State University,IA,Big 12,Public,2024,115
+117,SUNY College of Environmental Science and Forestry,NY,,Public,2024,115
+118,University of Arizona,AZ,Big 12,Public,2024,115
+119,University of New Hampshire,NH,AmEast,Public,2024,115
+120,University of San Francisco,CA,WCC,Private,2024,115
+121,University of Texas-Dallas,TX,,Public,2024,115
+122,University of Utah,UT,Big 12,Public,2024,115
+123,Creighton University,NE,Big East,Private,2024,124
+124,Fairfield University,CT,MAAC,Private,2024,124
+125,Florida International University,FL,C-USA,Public,2024,124
+126,James Madison University,VA,SBC,Public,2024,124
+127,University of Central Florida,FL,Big 12,Public,2024,124
+128,University of Denver,CO,The Summit,Private,2024,124
+129,University of Missouri,MZ,SEC,Public,2024,124
+130,University of Oklahoma,OK,SEC,Public,2024,124
+131,University of South Carolina,SC,SEC,Public,2024,124
+132,California State University-Fullerton,CA,,Public,2024,133
+133,Chapman University,CA,CCAA,Private,2024,133
+134,Elon University,NC,CAA,Private,2024,133
+135,Miami University,OH,MAC,Public,2024,133
+136,University of Albany-SUNY,NY,AmEast,Public,2024,133
+137,University of Dayton,OH,A-10,Private,2024,133
+138,University of Houston,TX,Big 12,Public,2024,133
+139,University of Maryland-Baltimore County,MD,AmEast,Public,2024,133
+140,University of Vermont,VT,AmEast,Public,2024,133
+141,Clark University,MA,,Private,2024,142
+142,Clarkson University,NY,Liberty,Private,2024,142
+143,Loyola University Chicago,IL,A-10,Private,2024,142
+144,Oregon State University,OR,Pac-12,Public,2024,142
+145,Thomas Jefferson University,PA,,Private,2024,142
+146,University of Alabama,AL,SEC,Public,2024,142
+147,University of Cincinnati,OH,Big 12,Public,2024,142
+148,University of the Pacific,CA,WCC,Private,2024,142
+149,Virginia Commonwealth University,VA,A-10,Public,2024,142
+150,Colorado State University,CO,MW,Public,2024,151
+151,DePaul University,IL,Big East,Private,2024,151
+152,Duquesne University,PA,A-10,Private,2024,151
+153,Michigan Technological University,MI,,Public,2024,151
+154,Seton Hall University,NJ,Big East,Private,2024,151
+155,Simmons University,MA,,Private,2024,151
+156,University of Kansas,KS,Big 12,Public,2024,151
+157,University of Rhode Island,RI,A-10,Public,2024,151
+158,Princeton University,NJ,Ivy League,Private,2023,1
+159,Massachusetts Institute of Technology,MA,NEWMAC,Private,2023,2
+160,Harvard University,MA,Ivy League,Private,2023,3
+161,Stanford University,CA,ACC,Private,2023,3
+162,Yale University,CT,Ivy League,Private,2023,3
+163,University of Pennsylvania,PA,Ivy League,Private,2023,7
+164,California Institute of Technology,CA,SCIAC,Private,2023,9
+165,Duke University,NC,ACC,Private,2023,10
+166,Brown University,RI,Ivy League,Private,2023,13
+167,Johns Hopkins University,MD,Centennial,Private,2023,7
+168,Northwestern University,IL,Big 10,Private,2023,10
+169,Columbia University,NY,Ivy League,Private,2023,18
+170,Cornell University,NY,Ivy League,Private,2023,17
+171,University of Chicago,IL,UAA,Private,2023,6
+172,University of California-Berkeley,CA,ACC,Public,2023,20
+173,University of California-Los Angeles,CA,Big 10,Public,2023,20
+174,Rice University,TX,AAC,Private,2023,15
+175,Dartmouth College,NH,Ivy League,Private,2023,12
+176,Vanderbilt University,TN,SEC,Private,2023,13
+177,University of Notre Dame,IN,ACC,Private,2023,18
+178,University of Michigan-Ann Arbor,MI,Big 10,Public,2023,25
+179,Georgetown University,DC,Big East,Private,2023,22
+180,University of North Carolina-Chapel Hill,NC,ACC,Public,2023,29
+181,Carnegie Mellon University,PA,UAA,Private,2023,22
+182,Emory University,GA,UAA,Private,2023,22
+183,University of Virginia,VA,ACC,Public,2023,25
+184,Washington University in St. Louis,MO,UAA,Private,2023,15
+185,University of California-Davis,CA,BWC,Public,2023,38
+186,University of California-San Diego,CA,BWC,Public,2023,34
+187,University of Florida,FL,SEC,Public,2023,29
+188,University of Southern California,CA,Big 10,Private,2023,25
+189,University of Texas-Austin,TX,SEC,Public,2023,38
+190,Georgia Institute of Technology,GA,ACC,Public,2023,44
+191,University of California-Irvine,CA,BWC,Public,2023,34
+192,New York University,NY,UAA,Private,2023,25
+193,University of California-Santa Barbara,CA,BWC,Public,2023,32
+194,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2023,41
+195,University of Wisconsin-Madison,WI,Big 10,Public,2023,38
+196,Boston College,MA,ACC,Private,2023,36
+197,Rutgers University-New Brunswick,NJ,Big 10,Public,2023,55
+198,Tufts University,MA,NESCAC,Private,2023,32
+199,University of Washington,WA,Big 10,Public,2023,55
+200,Boston University,MA,Patriot,Private,2023,41
+201,Ohio State University-Columbus,OH,Big 10,Public,2023,49
+202,Purdue University,IN,Big 10,Public,2023,51
+203,University of Maryland,MD,Big 10,Public,2023,55
+204,Lehigh University,PA,Patriot,Private,2023,51
+205,Texas A&M University-College Station,TX,SEC,Public,2023,67
+206,University of Georgia,GA,SEC,Public,2023,49
+207,University of Rochester,NY,UAA,Private,2023,36
+208,Virginia Polytechnic Institute and State University,VA,ACC,Public,2023,62
+209,Wake Forest University,NC,ACC,Private,2023,29
+210,Case Western Reserve University,OH,UAA,Private,2023,44
+211,College of William and Mary,VA,CAA,Public,2023,41
+212,Florida State University,FL,ACC,Public,2023,55
+213,Northeastern University,MA,CAA,Private,2023,44
+214,University of Minnesota,MN,Big 10,Public,2023,62
+215,Stony Brook University,NY,CAA,Public,2023,77
+216,University of Connecticut,CT,Big East,Public,2023,67
+217,Brandeis University,MA,UAA,Private,2023,44
+218,Michigan State University,MI,Big 10,Public,2023,77
+219,North Carolina State University,NC,ACC,Public,2023,72
+220,Pennsylvania State University-University Park,PA,Big 10,Public,2023,77
+221,Rensselaer Polytechnic Institute,NY,Liberty,Private,2023,51
+222,Santa Clara University,CA,WCC,Private,2023,55
+223,University of California-Merced,CA,CCAA,Public,2023,97
+224,George Washington University,DC,A-10,Private,2023,62
+225,Syracuse University,NY,ACC,Private,2023,62
+226,University of Massachusetts-Amherst,MA,A-10,Public,2023,67
+227,University of Miami,FL,ACC,Private,2023,55
+228,University of Pittsburgh,PA,ACC,Public,2023,62
+229,Villanova University,PA,Big East,Private,2023,51
+230,Binghamton University,NY,AmEast,Public,2023,83
+231,Indiana University-Bloomington,IN,Big 10,Public,2023,72
+232,Tulane University,LA,AAC,Private,2023,44
+233,Colorado School of Mines,CO,RMC,Public,2023,89
+234,Pepperdine University,CA,WCC,Private,2023,55
+235,Stevens Institute of Technology,NJ,MAC,Private,2023,83
+236,University of Buffalo,NY,MAC,Public,2023,89
+237,University of California-Riverside,CA,BWC,Public,2023,89
+238,University of Delaware,DE,C-USA,Public,2023,89
+239,Rutgers University-Newark,NJ,NJAC,Public,2023,115
+240,University of California-Santa Cruz,CA,C2C,Public,2023,83
+241,University of Illinois-Chicago,IL,MVC,Public,2023,97
+242,Worcester Polytechnic Institute,MA,NEWMAC,Private,2023,67
+243,Clemson University,SC,ACC,Public,2023,77
+244,Marquette University,WI,Big East,Private,2023,83
+245,New Jersey Institute of Technology,NJ,AmEast,Public,2023,97
+246,Fordham University,NY,A-10,Private,2023,72
+247,Southern Methodist University,TX,ACC,Private,2023,72
+248,Temple University,PA,AAC,Public,2023,121
+249,University of South Florida,FL,AAC,Public,2023,97
+250,Auburn University,AL,SEC,Public,2023,97
+251,Baylor University,TX,Big 12,Private,2023,77
+252,Gonzaga University,WA,WCC,Private,2023,83
+253,Loyola Marymount University,CA,WCC,Private,2023,77
+254,University of Iowa,IA,Big 10,Public,2023,83
+255,Drexel University,PA,CAA,Private,2023,105
+256,Illinois Institute of Technology,IL,NACC,Private,2023,127
+257,Rochester Institute of Technology,NY,Liberty,Private,2023,105
+258,Rutgers University-Camden,NJ,NJAC,Public,2023,127
+259,Texas Christian University,TX,Big 12,Private,2023,89
+260,University of Oregon,OR,Big 10,Public,2023,105
+261,University of San Diego,CA,WCC,Private,2023,97
+262,American University,DC,Patriot,Private,2023,72
+263,Arizona State University-Tempe,AZ,Big 12,Public,2023,121
+264,California State University-Long Beach,CA,BWC,Public,2023,137
+266,George Mason University,VA,A-10,Public,2023,137
+267,Saint Louis University,MZ,A-10,Private,2023,105
+269,University of Colorado-Boulder,CO,Big 12,Public,2023,97
+270,University of Tennessee,TN,SEC,Public,2023,115
+271,Yeshiva University,NY,,Private,2023,67
+272,Brigham Young University,UT,Big 12,Private,2023,89
+273,Howard University,DC,MEAC,Private,2023,89
+274,Iowa State University,IA,Big 12,Public,2023,127
+275,SUNY College of Environmental Science and Forestry,NY,,Public,2023,105
+276,University of Arizona,AZ,Big 12,Public,2023,105
+277,University of New Hampshire,NH,AmEast,Public,2023,137
+278,University of San Francisco,CA,WCC,Private,2023,105
+280,University of Utah,UT,Big 12,Public,2023,105
+281,Creighton University,NE,Big East,Private,2023,115
+282,Fairfield University,CT,MAAC,Private,2023,115
+285,University of Central Florida,FL,Big 12,Public,2023,137
+286,University of Denver,CO,The Summit,Private,2023,105
+287,University of Missouri,MZ,SEC,Public,2023,121
+288,University of Oklahoma,OK,SEC,Public,2023,127
+289,University of South Carolina,SC,SEC,Public,2023,115
+291,Chapman University,CA,CCAA,Private,2023,121
+292,Elon University,NC,CAA,Private,2023,89
+293,Miami University,OH,MAC,Public,2023,105
+295,University of Dayton,OH,A-10,Private,2023,127
+297,University of Maryland-Baltimore County,MD,AmEast,Public,2023,137
+298,University of Vermont,VT,AmEast,Public,2023,121
+299,Clark University,MA,,Private,2023,97
+300,Clarkson University,NY,Liberty,Private,2023,127
+301,Loyola University Chicago,IL,A-10,Private,2023,115
+303,Thomas Jefferson University,PA,,Private,2023,127
+304,University of Alabama,AL,SEC,Public,2023,137
+309,DePaul University,IL,Big East,Private,2023,137
+312,Seton Hall University,NJ,Big East,Private,2023,137
+314,University of Kansas,KS,Big 12,Public,2023,121
+316,Princeton University,NJ,Ivy League,Private,2022,1
+317,Massachusetts Institute of Technology,MA,NEWMAC,Private,2022,2
+318,Harvard University,MA,Ivy League,Private,2022,2
+319,Stanford University,CA,ACC,Private,2022,6
+320,Yale University,CT,Ivy League,Private,2022,5
+321,University of Pennsylvania,PA,Ivy League,Private,2022,8
+322,California Institute of Technology,CA,SCIAC,Private,2022,9
+323,Duke University,NC,ACC,Private,2022,9
+324,Brown University,RI,Ivy League,Private,2022,14
+325,Johns Hopkins University,MD,Centennial,Private,2022,9
+326,Northwestern University,IL,Big 10,Private,2022,9
+327,Columbia University,NY,Ivy League,Private,2022,2
+328,Cornell University,NY,Ivy League,Private,2022,17
+329,University of Chicago,IL,UAA,Private,2022,6
+330,University of California-Berkeley,CA,ACC,Public,2022,22
+331,University of California-Los Angeles,CA,Big 10,Public,2022,20
+332,Rice University,TX,AAC,Private,2022,17
+333,Dartmouth College,NH,Ivy League,Private,2022,13
+334,Vanderbilt University,TN,SEC,Private,2022,14
+335,University of Notre Dame,IN,ACC,Private,2022,19
+336,University of Michigan-Ann Arbor,MI,Big 10,Public,2022,23
+337,Georgetown University,DC,Big East,Private,2022,23
+338,University of North Carolina-Chapel Hill,NC,ACC,Public,2022,28
+339,Carnegie Mellon University,PA,UAA,Private,2022,25
+340,Emory University,GA,UAA,Private,2022,21
+341,University of Virginia,VA,ACC,Public,2022,25
+342,Washington University in St. Louis,MO,UAA,Private,2022,14
+343,University of California-Davis,CA,BWC,Public,2022,38
+344,University of California-San Diego,CA,BWC,Public,2022,34
+345,University of Florida,FL,SEC,Public,2022,28
+346,University of Southern California,CA,Big 10,Private,2022,27
+347,University of Texas-Austin,TX,SEC,Public,2022,38
+348,Georgia Institute of Technology,GA,ACC,Public,2022,38
+349,University of California-Irvine,CA,BWC,Public,2022,36
+350,New York University,NY,UAA,Private,2022,28
+351,University of California-Santa Barbara,CA,BWC,Public,2022,28
+352,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2022,47
+353,University of Wisconsin-Madison,WI,Big 10,Public,2022,42
+354,Boston College,MA,ACC,Private,2022,36
+355,Rutgers University-New Brunswick,NJ,Big 10,Public,2022,63
+356,Tufts University,MA,NESCAC,Private,2022,28
+357,University of Washington,WA,Big 10,Public,2022,59
+358,Boston University,MA,Patriot,Private,2022,42
+359,Ohio State University-Columbus,OH,Big 10,Public,2022,49
+360,Purdue University,IN,Big 10,Public,2022,49
+361,University of Maryland,MD,Big 10,Public,2022,59
+362,Lehigh University,PA,Patriot,Private,2022,49
+363,Texas A&M University-College Station,TX,SEC,Public,2022,68
+364,University of Georgia,GA,SEC,Public,2022,48
+365,University of Rochester,NY,UAA,Private,2022,34
+366,Virginia Polytechnic Institute and State University,VA,ACC,Public,2022,75
+367,Wake Forest University,NC,ACC,Private,2022,28
+368,Case Western Reserve University,OH,UAA,Private,2022,42
+369,College of William and Mary,VA,CAA,Public,2022,38
+370,Florida State University,FL,ACC,Public,2022,55
+371,Northeastern University,MA,CAA,Private,2022,49
+372,University of Minnesota,MN,Big 10,Public,2022,68
+373,Stony Brook University,NY,CAA,Public,2022,93
+374,University of Connecticut,CT,Big East,Public,2022,63
+375,Brandeis University,MA,UAA,Private,2022,42
+376,Michigan State University,MI,Big 10,Public,2022,83
+377,North Carolina State University,NC,ACC,Public,2022,79
+378,Pennsylvania State University-University Park,PA,Big 10,Public,2022,63
+379,Rensselaer Polytechnic Institute,NY,Liberty,Private,2022,55
+380,Santa Clara University,CA,WCC,Private,2022,55
+381,University of California-Merced,CA,CCAA,Public,2022,93
+382,George Washington University,DC,A-10,Private,2022,63
+383,Syracuse University,NY,ACC,Private,2022,59
+384,University of Massachusetts-Amherst,MA,A-10,Public,2022,68
+385,University of Miami,FL,ACC,Private,2022,55
+386,University of Pittsburgh,PA,ACC,Public,2022,59
+387,Villanova University,PA,Big East,Private,2022,49
+388,Binghamton University,NY,AmEast,Public,2022,83
+389,Indiana University-Bloomington,IN,Big 10,Public,2022,68
+390,Tulane University,LA,AAC,Private,2022,42
+391,Colorado School of Mines,CO,RMC,Public,2022,83
+392,Pepperdine University,CA,WCC,Private,2022,49
+393,Stevens Institute of Technology,NJ,MAC,Private,2022,83
+394,University of Buffalo,NY,MAC,Public,2022,93
+395,University of California-Riverside,CA,BWC,Public,2022,83
+396,University of Delaware,DE,C-USA,Public,2022,93
+397,Rutgers University-Newark,NJ,NJAC,Public,2022,127
+398,University of California-Santa Cruz,CA,C2C,Public,2022,103
+399,University of Illinois-Chicago,IL,MVC,Public,2022,103
+400,Worcester Polytechnic Institute,MA,NEWMAC,Private,2022,63
+401,Clemson University,SC,ACC,Public,2022,75
+402,Marquette University,WI,Big East,Private,2022,83
+403,New Jersey Institute of Technology,NJ,AmEast,Public,2022,103
+404,Fordham University,NY,A-10,Private,2022,68
+405,Southern Methodist University,TX,ACC,Private,2022,68
+406,Temple University,PA,AAC,Public,2022,103
+407,University of South Florida,FL,AAC,Public,2022,103
+408,Auburn University,AL,SEC,Public,2022,99
+409,Baylor University,TX,Big 12,Private,2022,75
+410,Gonzaga University,WA,WCC,Private,2022,79
+411,Loyola Marymount University,CA,WCC,Private,2022,75
+412,University of Iowa,IA,Big 10,Public,2022,83
+413,Drexel University,PA,CAA,Private,2022,103
+414,Illinois Institute of Technology,IL,NACC,Private,2022,122
+415,Rochester Institute of Technology,NY,Liberty,Private,2022,117
+416,Rutgers University-Camden,NJ,NJAC,Public,2022,148
+417,Texas Christian University,TX,Big 12,Private,2022,83
+418,University of Oregon,OR,Big 10,Public,2022,99
+419,University of San Diego,CA,WCC,Private,2022,93
+420,American University,DC,Patriot,Private,2022,79
+421,Arizona State University-Tempe,AZ,Big 12,Public,2022,117
+423,CUNY-City College,NY,BWC,Public,2022,148
+424,George Mason University,VA,A-10,Public,2022,148
+425,Saint Louis University,MZ,A-10,Private,2022,103
+426,San Diego State University,CA,MW,Public,2022,148
+427,University of Colorado-Boulder,CO,Big 12,Public,2022,99
+428,University of Tennessee,TN,SEC,Public,2022,103
+429,Yeshiva University,NY,,Private,2022,68
+430,Brigham Young University,UT,Big 12,Private,2022,79
+431,Howard University,DC,MEAC,Private,2022,83
+432,Iowa State University,IA,Big 12,Public,2022,122
+433,SUNY College of Environmental Science and Forestry,NY,,Public,2022,117
+434,University of Arizona,AZ,Big 12,Public,2022,103
+435,University of New Hampshire,NH,AmEast,Public,2022,136
+436,University of San Francisco,CA,WCC,Private,2022,103
+437,University of Texas-Dallas,TX,,Public,2022,136
+438,University of Utah,UT,Big 12,Public,2022,99
+439,Creighton University,NE,Big East,Private,2022,103
+443,University of Central Florida,FL,Big 12,Public,2022,148
+444,University of Denver,CO,The Summit,Private,2022,93
+445,University of Missouri,MZ,SEC,Public,2022,122
+446,University of Oklahoma,OK,SEC,Public,2022,127
+447,University of South Carolina,SC,SEC,Public,2022,117
+449,Chapman University,CA,CCAA,Private,2022,117
+450,Elon University,NC,CAA,Private,2022,83
+451,Miami University,OH,MAC,Public,2022,103
+453,University of Dayton,OH,A-10,Private,2022,127
+456,University of Vermont,VT,AmEast,Public,2022,117
+457,Clark University,MA,,Private,2022,103
+458,Clarkson University,NY,Liberty,Private,2022,127
+459,Loyola University Chicago,IL,A-10,Private,2022,103
+461,Thomas Jefferson University,PA,,Private,2022,148
+462,University of Alabama,AL,SEC,Public,2022,148
+463,University of Cincinnati,OH,Big 12,Public,2022,148
+464,University of the Pacific,CA,WCC,Private,2022,136
+466,Colorado State University,CO,MW,Public,2022,148
+467,DePaul University,IL,Big East,Private,2022,127
+468,Duquesne University,PA,A-10,Private,2022,148
+469,Michigan Technological University,MI,,Public,2022,148
+470,Seton Hall University,NJ,Big East,Private,2022,127
+471,Simmons University,MA,,Private,2022,136
+472,University of Kansas,KS,Big 12,Public,2022,122
+474,Princeton University,NJ,Ivy League,Private,2021,1
+475,Massachusetts Institute of Technology,MA,NEWMAC,Private,2021,4
+476,Harvard University,MA,Ivy League,Private,2021,2
+477,Stanford University,CA,ACC,Private,2021,6
+478,Yale University,CT,Ivy League,Private,2021,4
+479,University of Pennsylvania,PA,Ivy League,Private,2021,8
+480,California Institute of Technology,CA,SCIAC,Private,2021,9
+481,Duke University,NC,ACC,Private,2021,12
+482,Brown University,RI,Ivy League,Private,2021,14
+483,Johns Hopkins University,MD,Centennial,Private,2021,9
+484,Northwestern University,IL,Big 10,Private,2021,9
+485,Columbia University,NY,Ivy League,Private,2021,3
+486,Cornell University,NY,Ivy League,Private,2021,18
+487,University of Chicago,IL,UAA,Private,2021,6
+488,University of California-Berkeley,CA,ACC,Public,2021,22
+489,University of California-Los Angeles,CA,Big 10,Public,2021,20
+490,Rice University,TX,AAC,Private,2021,16
+491,Dartmouth College,NH,Ivy League,Private,2021,13
+492,Vanderbilt University,TN,SEC,Private,2021,14
+493,University of Notre Dame,IN,ACC,Private,2021,19
+494,University of Michigan-Ann Arbor,MI,Big 10,Public,2021,24
+495,Georgetown University,DC,Big East,Private,2021,23
+496,University of North Carolina-Chapel Hill,NC,ACC,Public,2021,28
+497,Carnegie Mellon University,PA,UAA,Private,2021,26
+498,Emory University,GA,UAA,Private,2021,21
+499,University of Virginia,VA,ACC,Public,2021,26
+500,Washington University in St. Louis,MO,UAA,Private,2021,16
+501,University of California-Davis,CA,BWC,Public,2021,39
+502,University of California-San Diego,CA,BWC,Public,2021,35
+503,University of Florida,FL,SEC,Public,2021,30
+504,University of Southern California,CA,Big 10,Private,2021,24
+505,University of Texas-Austin,TX,SEC,Public,2021,42
+506,Georgia Institute of Technology,GA,ACC,Public,2021,35
+507,University of California-Irvine,CA,BWC,Public,2021,35
+508,New York University,NY,UAA,Private,2021,30
+509,University of California-Santa Barbara,CA,BWC,Public,2021,30
+510,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2021,47
+511,University of Wisconsin-Madison,WI,Big 10,Public,2021,42
+512,Boston College,MA,ACC,Private,2021,35
+514,Tufts University,MA,NESCAC,Private,2021,30
+516,Boston University,MA,Patriot,Private,2021,42
+520,Lehigh University,PA,Patriot,Private,2021,49
+522,University of Georgia,GA,SEC,Public,2021,47
+523,University of Rochester,NY,UAA,Private,2021,34
+525,Wake Forest University,NC,ACC,Private,2021,28
+526,Case Western Reserve University,OH,UAA,Private,2021,42
+527,College of William and Mary,VA,CAA,Public,2021,39
+529,Northeastern University,MA,CAA,Private,2021,49
+533,Brandeis University,MA,UAA,Private,2021,42
+543,University of Miami,FL,ACC,Private,2021,49
+548,Tulane University,LA,AAC,Private,2021,41
+550,Pepperdine University,CA,WCC,Private,2021,49
+632,Princeton University,NJ,Ivy League,Private,2020,1
+633,Massachusetts Institute of Technology,MA,NEWMAC,Private,2020,3
+634,Harvard University,MA,Ivy League,Private,2020,2
+635,Stanford University,CA,ACC,Private,2020,6
+636,Yale University,CT,Ivy League,Private,2020,3
+637,University of Pennsylvania,PA,Ivy League,Private,2020,6
+638,California Institute of Technology,CA,SCIAC,Private,2020,12
+639,Duke University,NC,ACC,Private,2020,10
+640,Brown University,RI,Ivy League,Private,2020,14
+641,Johns Hopkins University,MD,Centennial,Private,2020,10
+642,Northwestern University,IL,Big 10,Private,2020,9
+643,Columbia University,NY,Ivy League,Private,2020,3
+644,Cornell University,NY,Ivy League,Private,2020,17
+645,University of Chicago,IL,UAA,Private,2020,6
+646,University of California-Berkeley,CA,ACC,Public,2020,22
+647,University of California-Los Angeles,CA,Big 10,Public,2020,20
+648,Rice University,TX,AAC,Private,2020,17
+649,Dartmouth College,NH,Ivy League,Private,2020,12
+650,Vanderbilt University,TN,SEC,Private,2020,17
+651,University of Notre Dame,IN,ACC,Private,2020,15
+652,University of Michigan-Ann Arbor,MI,Big 10,Public,2020,25
+653,Georgetown University,DC,Big East,Private,2020,24
+654,University of North Carolina-Chapel Hill,NC,ACC,Public,2020,29
+655,Carnegie Mellon University,PA,UAA,Private,2020,25
+656,Emory University,GA,UAA,Private,2020,21
+657,University of Virginia,VA,ACC,Public,2020,28
+658,Washington University in St. Louis,MO,UAA,Private,2020,19
+659,University of California-Davis,CA,BWC,Public,2020,39
+660,University of California-San Diego,CA,BWC,Public,2020,37
+661,University of Florida,FL,SEC,Public,2020,34
+662,University of Southern California,CA,Big 10,Private,2020,22
+663,University of Texas-Austin,TX,SEC,Public,2020,48
+664,Georgia Institute of Technology,GA,ACC,Public,2020,29
+665,University of California-Irvine,CA,BWC,Public,2020,36
+666,New York University,NY,UAA,Private,2020,29
+667,University of California-Santa Barbara,CA,BWC,Public,2020,34
+668,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2020,48
+669,University of Wisconsin-Madison,WI,Big 10,Public,2020,46
+670,Boston College,MA,ACC,Private,2020,37
+671,Rutgers University-New Brunswick,NJ,Big 10,Public,2020,62
+672,Tufts University,MA,NESCAC,Private,2020,29
+673,University of Washington,WA,Big 10,Public,2020,62
+674,Boston University,MA,Patriot,Private,2020,40
+675,Ohio State University-Columbus,OH,Big 10,Public,2020,54
+676,Purdue University,IN,Big 10,Public,2020,57
+677,University of Maryland,MD,Big 10,Public,2020,64
+678,Lehigh University,PA,Patriot,Private,2020,50
+679,Texas A&M University-College Station,TX,SEC,Public,2020,70
+680,University of Georgia,GA,SEC,Public,2020,50
+681,University of Rochester,NY,UAA,Private,2020,29
+682,Virginia Polytechnic Institute and State University,VA,ACC,Public,2020,74
+683,Wake Forest University,NC,ACC,Private,2020,27
+684,Case Western Reserve University,OH,UAA,Private,2020,40
+685,College of William and Mary,VA,CAA,Public,2020,40
+686,Florida State University,FL,ACC,Public,2020,57
+687,Northeastern University,MA,CAA,Private,2020,40
+688,University of Minnesota,MN,Big 10,Public,2020,70
+689,Stony Brook University,NY,CAA,Public,2020,91
+691,Brandeis University,MA,UAA,Private,2020,40
+692,Michigan State University,MI,Big 10,Public,2020,84
+693,North Carolina State University,NC,ACC,Public,2020,84
+694,Pennsylvania State University-University Park,PA,Big 10,Public,2020,57
+695,Rensselaer Polytechnic Institute,NY,Liberty,Private,2020,50
+698,George Washington University,DC,A-10,Private,2020,70
+699,Syracuse University,NY,ACC,Private,2020,54
+700,University of Massachusetts-Amherst,MA,A-10,Public,2020,64
+701,University of Miami,FL,ACC,Private,2020,57
+702,University of Pittsburgh,PA,ACC,Public,2020,57
+703,Villanova University,PA,Big East,Private,2020,46
+704,Binghamton University,NY,AmEast,Public,2020,79
+705,Indiana University-Bloomington,IN,Big 10,Public,2020,79
+706,Tulane University,LA,AAC,Private,2020,40
+707,Colorado School of Mines,CO,RMC,Public,2020,84
+708,Pepperdine University,CA,WCC,Private,2020,50
+709,Stevens Institute of Technology,NJ,MAC,Private,2020,74
+710,University of Buffalo,NY,MAC,Public,2020,79
+711,University of California-Riverside,CA,BWC,Public,2020,91
+712,University of Delaware,DE,C-USA,Public,2020,91
+714,University of California-Santa Cruz,CA,C2C,Public,2020,84
+716,Worcester Polytechnic Institute,MA,NEWMAC,Private,2020,64
+717,Clemson University,SC,ACC,Public,2020,70
+718,Marquette University,WI,Big East,Private,2020,84
+720,Fordham University,NY,A-10,Private,2020,74
+721,Southern Methodist University,TX,ACC,Private,2020,64
+724,Auburn University,AL,SEC,Public,2020,107
+725,Baylor University,TX,Big 12,Private,2020,79
+728,University of Iowa,IA,Big 10,Public,2020,84
+729,Drexel University,PA,CAA,Private,2020,97
+730,Illinois Institute of Technology,IL,NACC,Private,2020,117
+733,Texas Christian University,TX,Big 12,Private,2020,97
+734,University of Oregon,OR,Big 10,Public,2020,104
+735,University of San Diego,CA,WCC,Private,2020,91
+736,American University,DC,Patriot,Private,2020,77
+737,Arizona State University-Tempe,AZ,Big 12,Public,2020,117
+741,Saint Louis University,MZ,A-10,Private,2020,97
+743,University of Colorado-Boulder,CO,Big 12,Public,2020,104
+744,University of Tennessee,TN,SEC,Public,2020,104
+745,Yeshiva University,NY,,Private,2020,97
+746,Brigham Young University,UT,Big 12,Private,2020,77
+747,Howard University,DC,MEAC,Private,2020,104
+748,Iowa State University,IA,Big 12,Public,2020,121
+750,University of Arizona,AZ,Big 12,Public,2020,117
+751,University of New Hampshire,NH,AmEast,Public,2020,125
+760,University of Denver,CO,The Summit,Private,2020,97
+761,University of Missouri,MZ,SEC,Public,2020,139
+762,University of Oklahoma,OK,SEC,Public,2020,132
+763,University of South Carolina,SC,SEC,Public,2020,104
+767,Miami University,OH,MAC,Public,2020,91
+769,University of Dayton,OH,A-10,Private,2020,132
+772,University of Vermont,VT,AmEast,Public,2020,121
+773,Clark University,MA,,Private,2020,91
+774,Clarkson University,NY,Liberty,Private,2020,117
+775,Loyola University Chicago,IL,A-10,Private,2020,104
+778,University of Alabama,AL,SEC,Public,2020,153
+780,University of the Pacific,CA,WCC,Private,2020,125
+782,Colorado State University,CO,MW,Public,2020,166
+785,Michigan Technological University,MI,,Public,2020,147
+788,University of Kansas,KS,Big 12,Public,2020,130
+790,Princeton University,NJ,Ivy League,Private,2019,1
+791,Massachusetts Institute of Technology,MA,NEWMAC,Private,2019,3
+792,Harvard University,MA,Ivy League,Private,2019,2
+793,Stanford University,CA,ACC,Private,2019,7
+794,Yale University,CT,Ivy League,Private,2019,3
+795,University of Pennsylvania,PA,Ivy League,Private,2019,8
+796,California Institute of Technology,CA,SCIAC,Private,2019,12
+797,Duke University,NC,ACC,Private,2019,8
+798,Brown University,RI,Ivy League,Private,2019,14
+799,Johns Hopkins University,MD,Centennial,Private,2019,10
+800,Northwestern University,IL,Big 10,Private,2019,10
+801,Columbia University,NY,Ivy League,Private,2019,3
+802,Cornell University,NY,Ivy League,Private,2019,16
+803,University of Chicago,IL,UAA,Private,2019,3
+804,University of California-Berkeley,CA,ACC,Public,2019,22
+805,University of California-Los Angeles,CA,Big 10,Public,2019,19
+806,Rice University,TX,AAC,Private,2019,16
+807,Dartmouth College,NH,Ivy League,Private,2019,12
+808,Vanderbilt University,TN,SEC,Private,2019,14
+809,University of Notre Dame,IN,ACC,Private,2019,18
+810,University of Michigan-Ann Arbor,MI,Big 10,Public,2019,27
+811,Georgetown University,DC,Big East,Private,2019,22
+812,University of North Carolina-Chapel Hill,NC,ACC,Public,2019,30
+813,Carnegie Mellon University,PA,UAA,Private,2019,25
+814,Emory University,GA,UAA,Private,2019,22
+815,University of Virginia,VA,ACC,Public,2019,25
+816,Washington University in St. Louis,MO,UAA,Private,2019,19
+817,University of California-Davis,CA,BWC,Public,2019,38
+818,University of California-San Diego,CA,BWC,Public,2019,41
+819,University of Florida,FL,SEC,Public,2019,35
+820,University of Southern California,CA,Big 10,Private,2019,22
+821,University of Texas-Austin,TX,SEC,Public,2019,49
+822,Georgia Institute of Technology,GA,ACC,Public,2019,35
+823,University of California-Irvine,CA,BWC,Public,2019,33
+824,New York University,NY,UAA,Private,2019,30
+825,University of California-Santa Barbara,CA,BWC,Public,2019,30
+826,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2019,46
+827,University of Wisconsin-Madison,WI,Big 10,Public,2019,49
+828,Boston College,MA,ACC,Private,2019,38
+829,Rutgers University-New Brunswick,NJ,Big 10,Public,2019,56
+830,Tufts University,MA,NESCAC,Private,2019,27
+831,University of Washington,WA,Big 10,Public,2019,59
+832,Boston University,MA,Patriot,Private,2019,42
+833,Ohio State University-Columbus,OH,Big 10,Public,2019,56
+834,Purdue University,IN,Big 10,Public,2019,56
+835,University of Maryland,MD,Big 10,Public,2019,63
+836,Lehigh University,PA,Patriot,Private,2019,53
+837,Texas A&M University-College Station,TX,SEC,Public,2019,66
+838,University of Georgia,GA,SEC,Public,2019,46
+839,University of Rochester,NY,UAA,Private,2019,33
+840,Virginia Polytechnic Institute and State University,VA,ACC,Public,2019,76
+841,Wake Forest University,NC,ACC,Private,2019,27
+842,Case Western Reserve University,OH,UAA,Private,2019,42
+843,College of William and Mary,VA,CAA,Public,2019,38
+844,Florida State University,FL,ACC,Public,2019,70
+845,Northeastern University,MA,CAA,Private,2019,44
+846,University of Minnesota,MN,Big 10,Public,2019,76
+847,Stony Brook University,NY,CAA,Public,2019,80
+849,Brandeis University,MA,UAA,Private,2019,35
+850,Michigan State University,MI,Big 10,Public,2019,85
+851,North Carolina State University,NC,ACC,Public,2019,80
+852,Pennsylvania State University-University Park,PA,Big 10,Public,2019,59
+853,Rensselaer Polytechnic Institute,NY,Liberty,Private,2019,49
+856,George Washington University,DC,A-10,Private,2019,63
+857,Syracuse University,NY,ACC,Private,2019,53
+858,University of Massachusetts-Amherst,MA,A-10,Public,2019,70
+859,University of Miami,FL,ACC,Private,2019,53
+860,University of Pittsburgh,PA,ACC,Public,2019,70
+861,Villanova University,PA,Big East,Private,2019,49
+862,Binghamton University,NY,AmEast,Public,2019,80
+863,Indiana University-Bloomington,IN,Big 10,Public,2019,89
+864,Tulane University,LA,AAC,Private,2019,44
+865,Colorado School of Mines,CO,RMC,Public,2019,80
+866,Pepperdine University,CA,WCC,Private,2019,46
+867,Stevens Institute of Technology,NJ,MAC,Private,2019,70
+868,University of Buffalo,NY,MAC,Public,2019,89
+869,University of California-Riverside,CA,BWC,Public,2019,85
+870,University of Delaware,DE,C-USA,Public,2019,89
+872,University of California-Santa Cruz,CA,C2C,Public,2019,70
+874,Worcester Polytechnic Institute,MA,NEWMAC,Private,2019,59
+875,Clemson University,SC,ACC,Public,2019,66
+876,Marquette University,WI,Big East,Private,2019,89
+878,Fordham University,NY,A-10,Private,2019,70
+879,Southern Methodist University,TX,ACC,Private,2019,63
+882,Auburn University,AL,SEC,Public,2019,115
+883,Baylor University,TX,Big 12,Private,2019,78
+886,University of Iowa,IA,Big 10,Public,2019,89
+887,Drexel University,PA,CAA,Private,2019,102
+888,Illinois Institute of Technology,IL,NACC,Private,2019,96
+891,Texas Christian University,TX,Big 12,Private,2019,80
+892,University of Oregon,OR,Big 10,Public,2019,102
+893,University of San Diego,CA,WCC,Private,2019,85
+894,American University,DC,Patriot,Private,2019,78
+895,Arizona State University-Tempe,AZ,Big 12,Public,2019,115
+899,Saint Louis University,MZ,A-10,Private,2019,106
+901,University of Colorado-Boulder,CO,Big 12,Public,2019,96
+902,University of Tennessee,TN,SEC,Public,2019,115
+903,Yeshiva University,NY,,Private,2019,80
+904,Brigham Young University,UT,Big 12,Private,2019,63
+905,Howard University,DC,MEAC,Private,2019,89
+906,Iowa State University,IA,Big 12,Public,2019,119
+908,University of Arizona,AZ,Big 12,Public,2019,106
+909,University of New Hampshire,NH,AmEast,Public,2019,106
+918,University of Denver,CO,The Summit,Private,2019,96
+919,University of Missouri,MZ,SEC,Public,2019,129
+920,University of Oklahoma,OK,SEC,Public,2019,124
+921,University of South Carolina,SC,SEC,Public,2019,106
+925,Miami University,OH,MAC,Public,2019,89
+927,University of Dayton,OH,A-10,Private,2019,127
+930,University of Vermont,VT,AmEast,Public,2019,96
+931,Clark University,MA,,Private,2019,66
+932,Clarkson University,NY,Liberty,Private,2019,102
+933,Loyola University Chicago,IL,A-10,Private,2019,89
+936,University of Alabama,AL,SEC,Public,2019,129
+938,University of the Pacific,CA,WCC,Private,2019,106
+940,Colorado State University,CO,MW,Public,2019,140
+943,Michigan Technological University,MI,,Public,2019,136
+946,University of Kansas,KS,Big 12,Public,2019,129
+948,Princeton University,NJ,Ivy League,Private,2018,1
+949,Massachusetts Institute of Technology,MA,NEWMAC,Private,2018,5
+950,Harvard University,MA,Ivy League,Private,2018,2
+951,Stanford University,CA,ACC,Private,2018,5
+952,Yale University,CT,Ivy League,Private,2018,3
+953,University of Pennsylvania,PA,Ivy League,Private,2018,8
+954,California Institute of Technology,CA,SCIAC,Private,2018,10
+955,Duke University,NC,ACC,Private,2018,9
+956,Brown University,RI,Ivy League,Private,2018,14
+957,Johns Hopkins University,MD,Centennial,Private,2018,11
+958,Northwestern University,IL,Big 10,Private,2018,11
+959,Columbia University,NY,Ivy League,Private,2018,5
+960,Cornell University,NY,Ivy League,Private,2018,14
+961,University of Chicago,IL,UAA,Private,2018,3
+962,University of California-Berkeley,CA,ACC,Public,2018,21
+963,University of California-Los Angeles,CA,Big 10,Public,2018,21
+964,Rice University,TX,AAC,Private,2018,14
+965,Dartmouth College,NH,Ivy League,Private,2018,11
+966,Vanderbilt University,TN,SEC,Private,2018,14
+967,University of Notre Dame,IN,ACC,Private,2018,18
+968,University of Michigan-Ann Arbor,MI,Big 10,Public,2018,28
+969,Georgetown University,DC,Big East,Private,2018,20
+970,University of North Carolina-Chapel Hill,NC,ACC,Public,2018,30
+971,Carnegie Mellon University,PA,UAA,Private,2018,25
+972,Emory University,GA,UAA,Private,2018,21
+973,University of Virginia,VA,ACC,Public,2018,25
+974,Washington University in St. Louis,MO,UAA,Private,2018,18
+975,University of California-Davis,CA,BWC,Public,2018,46
+976,University of California-San Diego,CA,BWC,Public,2018,42
+977,University of Florida,FL,SEC,Public,2018,42
+978,University of Southern California,CA,Big 10,Private,2018,21
+979,University of Texas-Austin,TX,SEC,Public,2018,56
+980,Georgia Institute of Technology,GA,ACC,Public,2018,34
+981,University of California-Irvine,CA,BWC,Public,2018,42
+982,New York University,NY,UAA,Private,2018,30
+983,University of California-Santa Barbara,CA,BWC,Public,2018,37
+984,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2018,52
+985,University of Wisconsin-Madison,WI,Big 10,Public,2018,46
+986,Boston College,MA,ACC,Private,2018,32
+987,Rutgers University-New Brunswick,NJ,Big 10,Public,2018,69
+988,Tufts University,MA,NESCAC,Private,2018,29
+989,University of Washington,WA,Big 10,Public,2018,56
+990,Boston University,MA,Patriot,Private,2018,37
+991,Ohio State University-Columbus,OH,Big 10,Public,2018,54
+992,Purdue University,IN,Big 10,Public,2018,56
+993,University of Maryland,MD,Big 10,Public,2018,61
+994,Lehigh University,PA,Patriot,Private,2018,46
+995,Texas A&M University-College Station,TX,SEC,Public,2018,69
+996,University of Georgia,GA,SEC,Public,2018,54
+997,University of Rochester,NY,UAA,Private,2018,34
+998,Virginia Polytechnic Institute and State University,VA,ACC,Public,2018,69
+999,Wake Forest University,NC,ACC,Private,2018,27
+1000,Case Western Reserve University,OH,UAA,Private,2018,37
+1001,College of William and Mary,VA,CAA,Public,2018,32
+1002,Florida State University,FL,ACC,Public,2018,81
+1003,Northeastern University,MA,CAA,Private,2018,40
+1004,University of Minnesota,MN,Big 10,Public,2018,69
+1005,Stony Brook University,NY,CAA,Public,2018,97
+1007,Brandeis University,MA,UAA,Private,2018,34
+1008,Michigan State University,MI,Big 10,Public,2018,81
+1009,North Carolina State University,NC,ACC,Public,2018,81
+1010,Pennsylvania State University-University Park,PA,Big 10,Public,2018,52
+1011,Rensselaer Polytechnic Institute,NY,Liberty,Private,2018,42
+1014,George Washington University,DC,A-10,Private,2018,56
+1015,Syracuse University,NY,ACC,Private,2018,61
+1016,University of Massachusetts-Amherst,MA,A-10,Public,2018,75
+1017,University of Miami,FL,ACC,Private,2018,46
+1018,University of Pittsburgh,PA,ACC,Public,2018,68
+1019,Villanova University,PA,Big East,Private,2018,49
+1020,Binghamton University,NY,AmEast,Public,2018,87
+1021,Indiana University-Bloomington,IN,Big 10,Public,2018,90
+1022,Tulane University,LA,AAC,Private,2018,40
+1023,Colorado School of Mines,CO,RMC,Public,2018,75
+1024,Pepperdine University,CA,WCC,Private,2018,46
+1025,Stevens Institute of Technology,NJ,MAC,Private,2018,69
+1026,University of Buffalo,NY,MAC,Public,2018,97
+1027,University of California-Riverside,CA,BWC,Public,2018,124
+1028,University of Delaware,DE,C-USA,Public,2018,81
+1030,University of California-Santa Cruz,CA,C2C,Public,2018,81
+1032,Worcester Polytechnic Institute,MA,NEWMAC,Private,2018,61
+1033,Clemson University,SC,ACC,Public,2018,67
+1034,Marquette University,WI,Big East,Private,2018,90
+1036,Fordham University,NY,A-10,Private,2018,61
+1037,Southern Methodist University,TX,ACC,Private,2018,61
+1040,Auburn University,AL,SEC,Public,2018,103
+1041,Baylor University,TX,Big 12,Private,2018,75
+1044,University of Iowa,IA,Big 10,Public,2018,78
+1045,Drexel University,PA,CAA,Private,2018,94
+1046,Illinois Institute of Technology,IL,NACC,Private,2018,103
+1049,Texas Christian University,TX,Big 12,Private,2018,78
+1050,University of Oregon,OR,Big 10,Public,2018,103
+1051,University of San Diego,CA,WCC,Private,2018,90
+1052,American University,DC,Patriot,Private,2018,69
+1053,Arizona State University-Tempe,AZ,Big 12,Public,2018,115
+1057,Saint Louis University,MZ,A-10,Private,2018,94
+1059,University of Colorado-Boulder,CO,Big 12,Public,2018,90
+1060,University of Tennessee,TN,SEC,Public,2018,103
+1061,Yeshiva University,NY,,Private,2018,94
+1062,Brigham Young University,UT,Big 12,Private,2018,61
+1063,Howard University,DC,MEAC,Private,2018,110
+1064,Iowa State University,IA,Big 12,Public,2018,115
+1066,University of Arizona,AZ,Big 12,Public,2018,124
+1067,University of New Hampshire,NH,AmEast,Public,2018,103
+1076,University of Denver,CO,The Summit,Private,2018,87
+1077,University of Missouri,MZ,SEC,Public,2018,120
+1078,University of Oklahoma,OK,SEC,Public,2018,97
+1079,University of South Carolina,SC,SEC,Public,2018,103
+1083,Miami University,OH,MAC,Public,2018,78
+1085,University of Dayton,OH,A-10,Private,2018,124
+1088,University of Vermont,VT,AmEast,Public,2018,97
+1089,Clark University,MA,,Private,2018,81
+1090,Clarkson University,NY,Liberty,Private,2018,124
+1091,Loyola University Chicago,IL,A-10,Private,2018,103
+1094,University of Alabama,AL,SEC,Public,2018,110
+1096,University of the Pacific,CA,WCC,Private,2018,110
+1098,Colorado State University,CO,MW,Public,2018,124
+1101,Michigan Technological University,MI,,Public,2018,124
+1104,University of Kansas,KS,Big 12,Public,2018,115
+1106,Princeton University,NJ,Ivy League,Private,2017,1
+1107,Massachusetts Institute of Technology,MA,NEWMAC,Private,2017,7
+1108,Harvard University,MA,Ivy League,Private,2017,2
+1109,Stanford University,CA,ACC,Private,2017,5
+1110,Yale University,CT,Ivy League,Private,2017,3
+1111,University of Pennsylvania,PA,Ivy League,Private,2017,8
+1112,California Institute of Technology,CA,SCIAC,Private,2017,12
+1113,Duke University,NC,ACC,Private,2017,8
+1114,Brown University,RI,Ivy League,Private,2017,14
+1115,Johns Hopkins University,MD,Centennial,Private,2017,10
+1116,Northwestern University,IL,Big 10,Private,2017,12
+1117,Columbia University,NY,Ivy League,Private,2017,5
+1118,Cornell University,NY,Ivy League,Private,2017,15
+1119,University of Chicago,IL,UAA,Private,2017,3
+1120,University of California-Berkeley,CA,ACC,Public,2017,20
+1121,University of California-Los Angeles,CA,Big 10,Public,2017,24
+1122,Rice University,TX,AAC,Private,2017,15
+1123,Dartmouth College,NH,Ivy League,Private,2017,11
+1124,Vanderbilt University,TN,SEC,Private,2017,15
+1125,University of Notre Dame,IN,ACC,Private,2017,15
+1126,University of Michigan-Ann Arbor,MI,Big 10,Public,2017,27
+1127,Georgetown University,DC,Big East,Private,2017,20
+1128,University of North Carolina-Chapel Hill,NC,ACC,Public,2017,30
+1129,Carnegie Mellon University,PA,UAA,Private,2017,24
+1130,Emory University,GA,UAA,Private,2017,20
+1131,University of Virginia,VA,ACC,Public,2017,24
+1132,Washington University in St. Louis,MO,UAA,Private,2017,19
+1133,University of California-Davis,CA,BWC,Public,2017,44
+1134,University of California-San Diego,CA,BWC,Public,2017,44
+1135,University of Florida,FL,SEC,Public,2017,50
+1136,University of Southern California,CA,Big 10,Private,2017,23
+1137,University of Texas-Austin,TX,SEC,Public,2017,56
+1138,Georgia Institute of Technology,GA,ACC,Public,2017,34
+1139,University of California-Irvine,CA,BWC,Public,2017,39
+1140,New York University,NY,UAA,Private,2017,36
+1141,University of California-Santa Barbara,CA,BWC,Public,2017,37
+1142,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2017,44
+1143,University of Wisconsin-Madison,WI,Big 10,Public,2017,44
+1144,Boston College,MA,ACC,Private,2017,31
+1145,Rutgers University-New Brunswick,NJ,Big 10,Public,2017,70
+1146,Tufts University,MA,NESCAC,Private,2017,27
+1147,University of Washington,WA,Big 10,Public,2017,54
+1148,Boston University,MA,Patriot,Private,2017,39
+1149,Ohio State University-Columbus,OH,Big 10,Public,2017,54
+1150,Purdue University,IN,Big 10,Public,2017,60
+1151,University of Maryland,MD,Big 10,Public,2017,60
+1152,Lehigh University,PA,Patriot,Private,2017,44
+1153,Texas A&M University-College Station,TX,SEC,Public,2017,74
+1154,University of Georgia,GA,SEC,Public,2017,56
+1155,University of Rochester,NY,UAA,Private,2017,32
+1156,Virginia Polytechnic Institute and State University,VA,ACC,Public,2017,74
+1157,Wake Forest University,NC,ACC,Private,2017,27
+1158,Case Western Reserve University,OH,UAA,Private,2017,37
+1159,College of William and Mary,VA,CAA,Public,2017,32
+1160,Florida State University,FL,ACC,Public,2017,92
+1161,Northeastern University,MA,CAA,Private,2017,39
+1162,University of Minnesota,MN,Big 10,Public,2017,71
+1163,Stony Brook University,NY,CAA,Public,2017,96
+1165,Brandeis University,MA,UAA,Private,2017,34
+1166,Michigan State University,MI,Big 10,Public,2017,82
+1167,North Carolina State University,NC,ACC,Public,2017,92
+1168,Pennsylvania State University-University Park,PA,Big 10,Public,2017,50
+1169,Rensselaer Polytechnic Institute,NY,Liberty,Private,2017,39
+1172,George Washington University,DC,A-10,Private,2017,56
+1173,Syracuse University,NY,ACC,Private,2017,60
+1174,University of Massachusetts-Amherst,MA,A-10,Public,2017,74
+1175,University of Miami,FL,ACC,Private,2017,44
+1176,University of Pittsburgh,PA,ACC,Public,2017,68
+1177,Villanova University,PA,Big East,Private,2017,46
+1178,Binghamton University,NY,AmEast,Public,2017,86
+1179,Indiana University-Bloomington,IN,Big 10,Public,2017,86
+1180,Tulane University,LA,AAC,Private,2017,39
+1181,Colorado School of Mines,CO,RMC,Public,2017,82
+1182,Pepperdine University,CA,WCC,Private,2017,50
+1183,Stevens Institute of Technology,NJ,MAC,Private,2017,71
+1184,University of Buffalo,NY,MAC,Public,2017,99
+1185,University of California-Riverside,CA,BWC,Public,2017,118
+1186,University of Delaware,DE,C-USA,Public,2017,79
+1188,University of California-Santa Cruz,CA,C2C,Public,2017,79
+1190,Worcester Polytechnic Institute,MA,NEWMAC,Private,2017,60
+1191,Clemson University,SC,ACC,Public,2017,66
+1192,Marquette University,WI,Big East,Private,2017,86
+1194,Fordham University,NY,A-10,Private,2017,60
+1195,Southern Methodist University,TX,ACC,Private,2017,56
+1198,Auburn University,AL,SEC,Public,2017,99
+1199,Baylor University,TX,Big 12,Private,2017,71
+1202,University of Iowa,IA,Big 10,Public,2017,82
+1203,Drexel University,PA,CAA,Private,2017,96
+1204,Illinois Institute of Technology,IL,NACC,Private,2017,103
+1207,Texas Christian University,TX,Big 12,Private,2017,82
+1208,University of Oregon,OR,Big 10,Public,2017,103
+1209,University of San Diego,CA,WCC,Private,2017,86
+1210,American University,DC,Patriot,Private,2017,71
+1211,Arizona State University-Tempe,AZ,Big 12,Public,2017,129
+1215,Saint Louis University,MZ,A-10,Private,2017,96
+1217,University of Colorado-Boulder,CO,Big 12,Public,2017,92
+1218,University of Tennessee,TN,SEC,Public,2017,103
+1219,Yeshiva University,NY,,Private,2017,66
+1220,Brigham Young University,UT,Big 12,Private,2017,68
+1221,Howard University,DC,MEAC,Private,2017,124
+1222,Iowa State University,IA,Big 12,Public,2017,111
+1224,University of Arizona,AZ,Big 12,Public,2017,124
+1225,University of New Hampshire,NH,AmEast,Public,2017,107
+1234,University of Denver,CO,The Summit,Private,2017,86
+1235,University of Missouri,MZ,SEC,Public,2017,111
+1236,University of Oklahoma,OK,SEC,Public,2017,111
+1237,University of South Carolina,SC,SEC,Public,2017,107
+1241,Miami University,OH,MAC,Public,2017,79
+1243,University of Dayton,OH,A-10,Private,2017,111
+1246,University of Vermont,VT,AmEast,Public,2017,92
+1247,Clark University,MA,,Private,2017,74
+1248,Clarkson University,NY,Liberty,Private,2017,129
+1249,Loyola University Chicago,IL,A-10,Private,2017,99
+1252,University of Alabama,AL,SEC,Public,2017,103
+1254,University of the Pacific,CA,WCC,Private,2017,111
+1256,Colorado State University,CO,MW,Public,2017,129
+1259,Michigan Technological University,MI,,Public,2017,118
+1262,University of Kansas,KS,Big 12,Public,2017,118
+1264,Princeton University,NJ,Ivy League,Private,2016,1
+1265,Massachusetts Institute of Technology,MA,NEWMAC,Private,2016,7
+1266,Harvard University,MA,Ivy League,Private,2016,2
+1267,Stanford University,CA,ACC,Private,2016,4
+1268,Yale University,CT,Ivy League,Private,2016,3
+1269,University of Pennsylvania,PA,Ivy League,Private,2016,9
+1270,California Institute of Technology,CA,SCIAC,Private,2016,10
+1271,Duke University,NC,ACC,Private,2016,8
+1272,Brown University,RI,Ivy League,Private,2016,14
+1273,Johns Hopkins University,MD,Centennial,Private,2016,10
+1274,Northwestern University,IL,Big 10,Private,2016,12
+1275,Columbia University,NY,Ivy League,Private,2016,4
+1276,Cornell University,NY,Ivy League,Private,2016,15
+1277,University of Chicago,IL,UAA,Private,2016,4
+1278,University of California-Berkeley,CA,ACC,Public,2016,20
+1279,University of California-Los Angeles,CA,Big 10,Public,2016,23
+1280,Rice University,TX,AAC,Private,2016,18
+1281,Dartmouth College,NH,Ivy League,Private,2016,12
+1282,Vanderbilt University,TN,SEC,Private,2016,15
+1283,University of Notre Dame,IN,ACC,Private,2016,18
+1284,University of Michigan-Ann Arbor,MI,Big 10,Public,2016,29
+1285,Georgetown University,DC,Big East,Private,2016,21
+1286,University of North Carolina-Chapel Hill,NC,ACC,Public,2016,30
+1287,Carnegie Mellon University,PA,UAA,Private,2016,23
+1288,Emory University,GA,UAA,Private,2016,21
+1289,University of Virginia,VA,ACC,Public,2016,26
+1290,Washington University in St. Louis,MO,UAA,Private,2016,15
+1291,University of California-Davis,CA,BWC,Public,2016,41
+1292,University of California-San Diego,CA,BWC,Public,2016,39
+1293,University of Florida,FL,SEC,Public,2016,47
+1294,University of Southern California,CA,Big 10,Private,2016,23
+1295,University of Texas-Austin,TX,SEC,Public,2016,52
+1296,Georgia Institute of Technology,GA,ACC,Public,2016,36
+1297,University of California-Irvine,CA,BWC,Public,2016,39
+1298,New York University,NY,UAA,Private,2016,32
+1299,University of California-Santa Barbara,CA,BWC,Public,2016,37
+1300,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2016,41
+1301,University of Wisconsin-Madison,WI,Big 10,Public,2016,41
+1302,Boston College,MA,ACC,Private,2016,30
+1303,Rutgers University-New Brunswick,NJ,Big 10,Public,2016,72
+1304,Tufts University,MA,NESCAC,Private,2016,27
+1305,University of Washington,WA,Big 10,Public,2016,52
+1306,Boston University,MA,Patriot,Private,2016,41
+1307,Ohio State University-Columbus,OH,Big 10,Public,2016,52
+1308,Purdue University,IN,Big 10,Public,2016,61
+1309,University of Maryland,MD,Big 10,Public,2016,57
+1310,Lehigh University,PA,Patriot,Private,2016,47
+1311,Texas A&M University-College Station,TX,SEC,Public,2016,70
+1312,University of Georgia,GA,SEC,Public,2016,61
+1313,University of Rochester,NY,UAA,Private,2016,33
+1314,Virginia Polytechnic Institute and State University,VA,ACC,Public,2016,70
+1315,Wake Forest University,NC,ACC,Private,2016,27
+1316,Case Western Reserve University,OH,UAA,Private,2016,37
+1317,College of William and Mary,VA,CAA,Public,2016,34
+1318,Florida State University,FL,ACC,Public,2016,96
+1319,Northeastern University,MA,CAA,Private,2016,47
+1320,University of Minnesota,MN,Big 10,Public,2016,69
+1321,Stony Brook University,NY,CAA,Public,2016,89
+1323,Brandeis University,MA,UAA,Private,2016,34
+1324,Michigan State University,MI,Big 10,Public,2016,75
+1325,North Carolina State University,NC,ACC,Public,2016,89
+1326,Pennsylvania State University-University Park,PA,Big 10,Public,2016,47
+1327,Rensselaer Polytechnic Institute,NY,Liberty,Private,2016,41
+1330,George Washington University,DC,A-10,Private,2016,57
+1331,Syracuse University,NY,ACC,Private,2016,61
+1332,University of Massachusetts-Amherst,MA,A-10,Public,2016,75
+1333,University of Miami,FL,ACC,Private,2016,51
+1334,University of Pittsburgh,PA,ACC,Public,2016,66
+1335,Villanova University,PA,Big East,Private,2016,50
+1336,Binghamton University,NY,AmEast,Public,2016,89
+1337,Indiana University-Bloomington,IN,Big 10,Public,2016,75
+1338,Tulane University,LA,AAC,Private,2016,41
+1339,Colorado School of Mines,CO,RMC,Public,2016,75
+1340,Pepperdine University,CA,WCC,Private,2016,52
+1341,Stevens Institute of Technology,NJ,MAC,Private,2016,75
+1342,University of Buffalo,NY,MAC,Public,2016,99
+1343,University of California-Riverside,CA,BWC,Public,2016,121
+1344,University of Delaware,DE,C-USA,Public,2016,75
+1346,University of California-Santa Cruz,CA,C2C,Public,2016,82
+1348,Worcester Polytechnic Institute,MA,NEWMAC,Private,2016,57
+1349,Clemson University,SC,ACC,Public,2016,61
+1350,Marquette University,WI,Big East,Private,2016,86
+1352,Fordham University,NY,A-10,Private,2016,66
+1353,Southern Methodist University,TX,ACC,Private,2016,61
+1356,Auburn University,AL,SEC,Public,2016,102
+1357,Baylor University,TX,Big 12,Private,2016,72
+1360,University of Iowa,IA,Big 10,Public,2016,82
+1361,Drexel University,PA,CAA,Private,2016,99
+1362,Illinois Institute of Technology,IL,NACC,Private,2016,108
+1365,Texas Christian University,TX,Big 12,Private,2016,82
+1366,University of Oregon,OR,Big 10,Public,2016,103
+1367,University of San Diego,CA,WCC,Private,2016,89
+1368,American University,DC,Patriot,Private,2016,72
+1369,Arizona State University-Tempe,AZ,Big 12,Public,2016,129
+1373,Saint Louis University,MZ,A-10,Private,2016,96
+1375,University of Colorado-Boulder,CO,Big 12,Public,2016,89
+1376,University of Tennessee,TN,SEC,Public,2016,103
+1377,Yeshiva University,NY,,Private,2016,52
+1378,Brigham Young University,UT,Big 12,Private,2016,66
+1379,Howard University,DC,MEAC,Private,2016,135
+1380,Iowa State University,IA,Big 12,Public,2016,108
+1382,University of Arizona,AZ,Big 12,Public,2016,121
+1383,University of New Hampshire,NH,AmEast,Public,2016,103
+1392,University of Denver,CO,The Summit,Private,2016,86
+1393,University of Missouri,MZ,SEC,Public,2016,103
+1394,University of Oklahoma,OK,SEC,Public,2016,108
+1395,University of South Carolina,SC,SEC,Public,2016,108
+1399,Miami University,OH,MAC,Public,2016,82
+1401,University of Dayton,OH,A-10,Private,2016,108
+1404,University of Vermont,VT,AmEast,Public,2016,89
+1405,Clark University,MA,,Private,2016,75
+1406,Clarkson University,NY,Liberty,Private,2016,115
+1407,Loyola University Chicago,IL,A-10,Private,2016,99
+1410,University of Alabama,AL,SEC,Public,2016,96
+1412,University of the Pacific,CA,WCC,Private,2016,108
+1414,Colorado State University,CO,MW,Public,2016,127
+1417,Michigan Technological University,MI,,Public,2016,123
+1420,University of Kansas,KS,Big 12,Public,2016,115
+1422,Princeton University,NJ,Ivy League,Private,2015,1
+1423,Massachusetts Institute of Technology,MA,NEWMAC,Private,2015,7
+1424,Harvard University,MA,Ivy League,Private,2015,2
+1425,Stanford University,CA,ACC,Private,2015,4
+1426,Yale University,CT,Ivy League,Private,2015,3
+1427,University of Pennsylvania,PA,Ivy League,Private,2015,8
+1428,California Institute of Technology,CA,SCIAC,Private,2015,10
+1429,Duke University,NC,ACC,Private,2015,8
+1430,Brown University,RI,Ivy League,Private,2015,16
+1431,Johns Hopkins University,MD,Centennial,Private,2015,12
+1432,Northwestern University,IL,Big 10,Private,2015,13
+1433,Columbia University,NY,Ivy League,Private,2015,4
+1434,Cornell University,NY,Ivy League,Private,2015,15
+1435,University of Chicago,IL,UAA,Private,2015,4
+1436,University of California-Berkeley,CA,ACC,Public,2015,20
+1437,University of California-Los Angeles,CA,Big 10,Public,2015,23
+1438,Rice University,TX,AAC,Private,2015,19
+1439,Dartmouth College,NH,Ivy League,Private,2015,11
+1440,Vanderbilt University,TN,SEC,Private,2015,16
+1441,University of Notre Dame,IN,ACC,Private,2015,16
+1442,University of Michigan-Ann Arbor,MI,Big 10,Public,2015,29
+1443,Georgetown University,DC,Big East,Private,2015,21
+1444,University of North Carolina-Chapel Hill,NC,ACC,Public,2015,30
+1445,Carnegie Mellon University,PA,UAA,Private,2015,25
+1446,Emory University,GA,UAA,Private,2015,21
+1447,University of Virginia,VA,ACC,Public,2015,23
+1448,Washington University in St. Louis,MO,UAA,Private,2015,14
+1449,University of California-Davis,CA,BWC,Public,2015,38
+1450,University of California-San Diego,CA,BWC,Public,2015,37
+1451,University of Florida,FL,SEC,Public,2015,48
+1452,University of Southern California,CA,Big 10,Private,2015,25
+1453,University of Texas-Austin,TX,SEC,Public,2015,53
+1454,Georgia Institute of Technology,GA,ACC,Public,2015,36
+1455,University of California-Irvine,CA,BWC,Public,2015,42
+1456,New York University,NY,UAA,Private,2015,32
+1457,University of California-Santa Barbara,CA,BWC,Public,2015,40
+1458,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2015,42
+1459,University of Wisconsin-Madison,WI,Big 10,Public,2015,47
+1460,Boston College,MA,ACC,Private,2015,31
+1461,Rutgers University-New Brunswick,NJ,Big 10,Public,2015,70
+1462,Tufts University,MA,NESCAC,Private,2015,27
+1463,University of Washington,WA,Big 10,Public,2015,48
+1464,Boston University,MA,Patriot,Private,2015,42
+1465,Ohio State University-Columbus,OH,Big 10,Public,2015,54
+1466,Purdue University,IN,Big 10,Public,2015,62
+1467,University of Maryland,MD,Big 10,Public,2015,62
+1468,Lehigh University,PA,Patriot,Private,2015,40
+1469,Texas A&M University-College Station,TX,SEC,Public,2015,68
+1470,University of Georgia,GA,SEC,Public,2015,62
+1471,University of Rochester,NY,UAA,Private,2015,33
+1472,Virginia Polytechnic Institute and State University,VA,ACC,Public,2015,71
+1473,Wake Forest University,NC,ACC,Private,2015,27
+1474,Case Western Reserve University,OH,UAA,Private,2015,38
+1475,College of William and Mary,VA,CAA,Public,2015,33
+1476,Florida State University,FL,ACC,Public,2015,95
+1477,Northeastern University,MA,CAA,Private,2015,42
+1478,University of Minnesota,MN,Big 10,Public,2015,71
+1479,Stony Brook University,NY,CAA,Public,2015,88
+1480,University of Connecticut,CT,Big East,Public,2015,58
+1481,Brandeis University,MA,UAA,Private,2015,35
+1482,Michigan State University,MI,Big 10,Public,2015,85
+1483,North Carolina State University,NC,ACC,Public,2015,95
+1484,Pennsylvania State University-University Park,PA,Big 10,Public,2015,48
+1485,Rensselaer Polytechnic Institute,NY,Liberty,Private,2015,42
+1488,George Washington University,DC,A-10,Private,2015,54
+1489,Syracuse University,NY,ACC,Private,2015,58
+1490,University of Massachusetts-Amherst,MA,A-10,Public,2015,76
+1491,University of Miami,FL,ACC,Private,2015,48
+1492,University of Pittsburgh,PA,ACC,Public,2015,62
+1494,Binghamton University,NY,AmEast,Public,2015,88
+1495,Indiana University-Bloomington,IN,Big 10,Public,2015,76
+1496,Tulane University,LA,AAC,Private,2015,54
+1497,Colorado School of Mines,CO,RMC,Public,2015,88
+1498,Pepperdine University,CA,WCC,Private,2015,54
+1499,Stevens Institute of Technology,NJ,MAC,Private,2015,76
+1500,University of Buffalo,NY,MAC,Public,2015,103
+1501,University of California-Riverside,CA,BWC,Public,2015,113
+1502,University of Delaware,DE,C-USA,Public,2015,76
+1504,University of California-Santa Cruz,CA,C2C,Public,2015,85
+1506,Worcester Polytechnic Institute,MA,NEWMAC,Private,2015,68
+1507,Clemson University,SC,ACC,Public,2015,62
+1508,Marquette University,WI,Big East,Private,2015,76
+1510,Fordham University,NY,A-10,Private,2015,58
+1511,Southern Methodist University,TX,ACC,Private,2015,58
+1514,Auburn University,AL,SEC,Public,2015,103
+1515,Baylor University,TX,Big 12,Private,2015,71
+1518,University of Iowa,IA,Big 10,Public,2015,71
+1519,Drexel University,PA,CAA,Private,2015,95
+1520,Illinois Institute of Technology,IL,NACC,Private,2015,116
+1523,Texas Christian University,TX,Big 12,Private,2015,76
+1524,University of Oregon,OR,Big 10,Public,2015,106
+1525,University of San Diego,CA,WCC,Private,2015,95
+1526,American University,DC,Patriot,Private,2015,71
+1527,Arizona State University-Tempe,AZ,Big 12,Public,2015,129
+1531,Saint Louis University,MZ,A-10,Private,2015,99
+1533,University of Colorado-Boulder,CO,Big 12,Public,2015,88
+1534,University of Tennessee,TN,SEC,Public,2015,106
+1535,Yeshiva University,NY,,Private,2015,48
+1536,Brigham Young University,UT,Big 12,Private,2015,62
+1537,Howard University,DC,MEAC,Private,2015,145
+1538,Iowa State University,IA,Big 12,Public,2015,106
+1540,University of Arizona,AZ,Big 12,Public,2015,121
+1541,University of New Hampshire,NH,AmEast,Public,2015,99
+1550,University of Denver,CO,The Summit,Private,2015,88
+1551,University of Missouri,MZ,SEC,Public,2015,99
+1552,University of Oklahoma,OK,SEC,Public,2015,106
+1553,University of South Carolina,SC,SEC,Public,2015,113
+1557,Miami University,OH,MAC,Public,2015,76
+1559,University of Dayton,OH,A-10,Private,2015,103
+1562,University of Vermont,VT,AmEast,Public,2015,85
+1563,Clark University,MA,,Private,2015,76
+1564,Clarkson University,NY,Liberty,Private,2015,121
+1565,Loyola University Chicago,IL,A-10,Private,2015,106
+1568,University of Alabama,AL,SEC,Public,2015,88
+1570,University of the Pacific,CA,WCC,Private,2015,116
+1572,Colorado State University,CO,MW,Public,2015,121
+1575,Michigan Technological University,MI,,Public,2015,116
+1578,University of Kansas,KS,Big 12,Public,2015,106
+1580,Princeton University,NJ,Ivy League,Private,2014,1
+1581,Massachusetts Institute of Technology,MA,NEWMAC,Private,2014,7
+1582,Harvard University,MA,Ivy League,Private,2014,2
+1583,Stanford University,CA,ACC,Private,2014,5
+1584,Yale University,CT,Ivy League,Private,2014,3
+1585,University of Pennsylvania,PA,Ivy League,Private,2014,7
+1586,California Institute of Technology,CA,SCIAC,Private,2014,10
+1587,Duke University,NC,ACC,Private,2014,7
+1588,Brown University,RI,Ivy League,Private,2014,14
+1589,Johns Hopkins University,MD,Centennial,Private,2014,12
+1590,Northwestern University,IL,Big 10,Private,2014,12
+1591,Columbia University,NY,Ivy League,Private,2014,4
+1592,Cornell University,NY,Ivy League,Private,2014,16
+1593,University of Chicago,IL,UAA,Private,2014,5
+1594,University of California-Berkeley,CA,ACC,Public,2014,20
+1595,University of California-Los Angeles,CA,Big 10,Public,2014,23
+1596,Rice University,TX,AAC,Private,2014,18
+1597,Dartmouth College,NH,Ivy League,Private,2014,10
+1598,Vanderbilt University,TN,SEC,Private,2014,17
+1599,University of Notre Dame,IN,ACC,Private,2014,18
+1600,University of Michigan-Ann Arbor,MI,Big 10,Public,2014,28
+1601,Georgetown University,DC,Big East,Private,2014,20
+1602,University of North Carolina-Chapel Hill,NC,ACC,Public,2014,30
+1603,Carnegie Mellon University,PA,UAA,Private,2014,23
+1604,Emory University,GA,UAA,Private,2014,20
+1605,University of Virginia,VA,ACC,Public,2014,23
+1606,Washington University in St. Louis,MO,UAA,Private,2014,14
+1607,University of California-Davis,CA,BWC,Public,2014,39
+1608,University of California-San Diego,CA,BWC,Public,2014,39
+1609,University of Florida,FL,SEC,Public,2014,49
+1610,University of Southern California,CA,Big 10,Private,2014,23
+1611,University of Texas-Austin,TX,SEC,Public,2014,52
+1612,Georgia Institute of Technology,GA,ACC,Public,2014,36
+1613,University of California-Irvine,CA,BWC,Public,2014,49
+1614,New York University,NY,UAA,Private,2014,32
+1615,University of California-Santa Barbara,CA,BWC,Public,2014,41
+1616,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2014,41
+1617,University of Wisconsin-Madison,WI,Big 10,Public,2014,41
+1618,Boston College,MA,ACC,Private,2014,31
+1619,Rutgers University-New Brunswick,NJ,Big 10,Public,2014,69
+1620,Tufts University,MA,NESCAC,Private,2014,28
+1621,University of Washington,WA,Big 10,Public,2014,52
+1622,Boston University,MA,Patriot,Private,2014,41
+1623,Ohio State University-Columbus,OH,Big 10,Public,2014,52
+1624,Purdue University,IN,Big 10,Public,2014,68
+1625,University of Maryland,MD,Big 10,Public,2014,62
+1626,Lehigh University,PA,Patriot,Private,2014,41
+1627,Texas A&M University-College Station,TX,SEC,Public,2014,69
+1628,University of Georgia,GA,SEC,Public,2014,60
+1629,University of Rochester,NY,UAA,Private,2014,32
+1630,Virginia Polytechnic Institute and State University,VA,ACC,Public,2014,69
+1631,Wake Forest University,NC,ACC,Private,2014,23
+1632,Case Western Reserve University,OH,UAA,Private,2014,37
+1633,College of William and Mary,VA,CAA,Public,2014,32
+1634,Florida State University,FL,ACC,Public,2014,91
+1635,Northeastern University,MA,CAA,Private,2014,49
+1636,University of Minnesota,MN,Big 10,Public,2014,69
+1637,Stony Brook University,NY,CAA,Public,2014,82
+1638,University of Connecticut,CT,Big East,Public,2014,57
+1639,Brandeis University,MA,UAA,Private,2014,32
+1640,Michigan State University,MI,Big 10,Public,2014,73
+1641,North Carolina State University,NC,ACC,Public,2014,101
+1642,Pennsylvania State University-University Park,PA,Big 10,Public,2014,37
+1643,Rensselaer Polytechnic Institute,NY,Liberty,Private,2014,41
+1646,George Washington University,DC,A-10,Private,2014,52
+1647,Syracuse University,NY,ACC,Private,2014,62
+1648,University of Massachusetts-Amherst,MA,A-10,Public,2014,91
+1649,University of Miami,FL,ACC,Private,2014,47
+1650,University of Pittsburgh,PA,ACC,Public,2014,62
+1652,Binghamton University,NY,AmEast,Public,2014,97
+1653,Indiana University-Bloomington,IN,Big 10,Public,2014,75
+1654,Tulane University,LA,AAC,Private,2014,52
+1655,Colorado School of Mines,CO,RMC,Public,2014,91
+1656,Pepperdine University,CA,WCC,Private,2014,57
+1657,Stevens Institute of Technology,NJ,MAC,Private,2014,82
+1658,University of Buffalo,NY,MAC,Public,2014,109
+1659,University of California-Riverside,CA,BWC,Public,2014,112
+1660,University of Delaware,DE,C-USA,Public,2014,75
+1662,University of California-Santa Cruz,CA,C2C,Public,2014,86
+1664,Worcester Polytechnic Institute,MA,NEWMAC,Private,2014,62
+1665,Clemson University,SC,ACC,Public,2014,62
+1666,Marquette University,WI,Big East,Private,2014,75
+1668,Fordham University,NY,A-10,Private,2014,57
+1669,Southern Methodist University,TX,ACC,Private,2014,60
+1672,Auburn University,AL,SEC,Public,2014,91
+1673,Baylor University,TX,Big 12,Private,2014,75
+1676,University of Iowa,IA,Big 10,Public,2014,73
+1677,Drexel University,PA,CAA,Private,2014,97
+1678,Illinois Institute of Technology,IL,NACC,Private,2014,109
+1681,Texas Christian University,TX,Big 12,Private,2014,82
+1682,University of Oregon,OR,Big 10,Public,2014,109
+1683,University of San Diego,CA,WCC,Private,2014,91
+1684,American University,DC,Patriot,Private,2014,75
+1685,Arizona State University-Tempe,AZ,Big 12,Public,2014,142
+1689,Saint Louis University,MZ,A-10,Private,2014,101
+1691,University of Colorado-Boulder,CO,Big 12,Public,2014,86
+1692,University of Tennessee,TN,SEC,Public,2014,101
+1693,Yeshiva University,NY,,Private,2014,47
+1694,Brigham Young University,UT,Big 12,Private,2014,62
+1695,Howard University,DC,MEAC,Private,2014,142
+1696,Iowa State University,IA,Big 12,Public,2014,101
+1698,University of Arizona,AZ,Big 12,Public,2014,119
+1699,University of New Hampshire,NH,AmEast,Public,2014,97
+1708,University of Denver,CO,The Summit,Private,2014,91
+1709,University of Missouri,MZ,SEC,Public,2014,97
+1710,University of Oklahoma,OK,SEC,Public,2014,101
+1711,University of South Carolina,SC,SEC,Public,2014,112
+1715,Miami University,OH,MAC,Public,2014,75
+1717,University of Dayton,OH,A-10,Private,2014,112
+1720,University of Vermont,VT,AmEast,Public,2014,82
+1721,Clark University,MA,,Private,2014,75
+1722,Clarkson University,NY,Liberty,Private,2014,121
+1723,Loyola University Chicago,IL,A-10,Private,2014,101
+1726,University of Alabama,AL,SEC,Public,2014,86
+1728,University of the Pacific,CA,WCC,Private,2014,112
+1730,Colorado State University,CO,MW,Public,2014,121
+1733,Michigan Technological University,MI,,Public,2014,117
+1736,University of Kansas,KS,Big 12,Public,2014,101
+1738,Princeton University,NJ,Ivy League,Private,2013,1
+1739,Massachusetts Institute of Technology,MA,NEWMAC,Private,2013,6
+1740,Harvard University,MA,Ivy League,Private,2013,1
+1741,Stanford University,CA,ACC,Private,2013,6
+1742,Yale University,CT,Ivy League,Private,2013,3
+1743,University of Pennsylvania,PA,Ivy League,Private,2013,8
+1744,California Institute of Technology,CA,SCIAC,Private,2013,10
+1745,Duke University,NC,ACC,Private,2013,8
+1746,Brown University,RI,Ivy League,Private,2013,15
+1747,Johns Hopkins University,MD,Centennial,Private,2013,13
+1748,Northwestern University,IL,Big 10,Private,2013,12
+1749,Columbia University,NY,Ivy League,Private,2013,4
+1750,Cornell University,NY,Ivy League,Private,2013,15
+1751,University of Chicago,IL,UAA,Private,2013,4
+1752,University of California-Berkeley,CA,ACC,Public,2013,21
+1753,University of California-Los Angeles,CA,Big 10,Public,2013,24
+1754,Rice University,TX,AAC,Private,2013,17
+1755,Dartmouth College,NH,Ivy League,Private,2013,10
+1756,Vanderbilt University,TN,SEC,Private,2013,17
+1757,University of Notre Dame,IN,ACC,Private,2013,17
+1758,University of Michigan-Ann Arbor,MI,Big 10,Public,2013,29
+1759,Georgetown University,DC,Big East,Private,2013,21
+1760,University of North Carolina-Chapel Hill,NC,ACC,Public,2013,30
+1761,Carnegie Mellon University,PA,UAA,Private,2013,23
+1762,Emory University,GA,UAA,Private,2013,20
+1763,University of Virginia,VA,ACC,Public,2013,24
+1764,Washington University in St. Louis,MO,UAA,Private,2013,14
+1765,University of California-Davis,CA,BWC,Public,2013,38
+1766,University of California-San Diego,CA,BWC,Public,2013,38
+1767,University of Florida,FL,SEC,Public,2013,54
+1768,University of Southern California,CA,Big 10,Private,2013,24
+1769,University of Texas-Austin,TX,SEC,Public,2013,46
+1770,Georgia Institute of Technology,GA,ACC,Public,2013,36
+1771,University of California-Irvine,CA,BWC,Public,2013,44
+1772,New York University,NY,UAA,Private,2013,32
+1773,University of California-Santa Barbara,CA,BWC,Public,2013,41
+1774,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2013,46
+1775,University of Wisconsin-Madison,WI,Big 10,Public,2013,41
+1776,Boston College,MA,ACC,Private,2013,31
+1777,Rutgers University-New Brunswick,NJ,Big 10,Public,2013,68
+1778,Tufts University,MA,NESCAC,Private,2013,28
+1779,University of Washington,WA,Big 10,Public,2013,46
+1780,Boston University,MA,Patriot,Private,2013,51
+1781,Ohio State University-Columbus,OH,Big 10,Public,2013,56
+1782,Purdue University,IN,Big 10,Public,2013,65
+1783,University of Maryland,MD,Big 10,Public,2013,58
+1784,Lehigh University,PA,Patriot,Private,2013,38
+1785,Texas A&M University-College Station,TX,SEC,Public,2013,65
+1786,University of Georgia,GA,SEC,Public,2013,63
+1787,University of Rochester,NY,UAA,Private,2013,33
+1788,Virginia Polytechnic Institute and State University,VA,ACC,Public,2013,72
+1789,Wake Forest University,NC,ACC,Private,2013,27
+1790,Case Western Reserve University,OH,UAA,Private,2013,37
+1791,College of William and Mary,VA,CAA,Public,2013,33
+1792,Florida State University,FL,ACC,Public,2013,97
+1793,Northeastern University,MA,CAA,Private,2013,56
+1794,University of Minnesota,MN,Big 10,Public,2013,68
+1795,Stony Brook University,NY,CAA,Public,2013,92
+1796,University of Connecticut,CT,Big East,Public,2013,63
+1797,Brandeis University,MA,UAA,Private,2013,33
+1798,Michigan State University,MI,Big 10,Public,2013,72
+1799,North Carolina State University,NC,ACC,Public,2013,106
+1800,Pennsylvania State University-University Park,PA,Big 10,Public,2013,46
+1801,Rensselaer Polytechnic Institute,NY,Liberty,Private,2013,41
+1804,George Washington University,DC,A-10,Private,2013,51
+1805,Syracuse University,NY,ACC,Private,2013,58
+1806,University of Massachusetts-Amherst,MA,A-10,Public,2013,97
+1807,University of Miami,FL,ACC,Private,2013,44
+1808,University of Pittsburgh,PA,ACC,Public,2013,58
+1810,Binghamton University,NY,AmEast,Public,2013,89
+1811,Indiana University-Bloomington,IN,Big 10,Public,2013,83
+1812,Tulane University,LA,AAC,Private,2013,51
+1813,Colorado School of Mines,CO,RMC,Public,2013,77
+1814,Pepperdine University,CA,WCC,Private,2013,54
+1815,Stevens Institute of Technology,NJ,MAC,Private,2013,75
+1816,University of Buffalo,NY,MAC,Public,2013,106
+1817,University of California-Riverside,CA,BWC,Public,2013,101
+1818,University of Delaware,DE,C-USA,Public,2013,75
+1820,University of California-Santa Cruz,CA,C2C,Public,2013,77
+1822,Worcester Polytechnic Institute,MA,NEWMAC,Private,2013,65
+1823,Clemson University,SC,ACC,Public,2013,68
+1824,Marquette University,WI,Big East,Private,2013,83
+1826,Fordham University,NY,A-10,Private,2013,58
+1827,Southern Methodist University,TX,ACC,Private,2013,58
+1830,Auburn University,AL,SEC,Public,2013,89
+1831,Baylor University,TX,Big 12,Private,2013,77
+1834,University of Iowa,IA,Big 10,Public,2013,72
+1835,Drexel University,PA,CAA,Private,2013,83
+1836,Illinois Institute of Technology,IL,NACC,Private,2013,113
+1839,Texas Christian University,TX,Big 12,Private,2013,92
+1840,University of Oregon,OR,Big 10,Public,2013,115
+1841,University of San Diego,CA,WCC,Private,2013,92
+1842,American University,DC,Patriot,Private,2013,77
+1843,Arizona State University-Tempe,AZ,Big 12,Public,2013,139
+1847,Saint Louis University,MZ,A-10,Private,2013,92
+1849,University of Colorado-Boulder,CO,Big 12,Public,2013,97
+1850,University of Tennessee,TN,SEC,Public,2013,101
+1851,Yeshiva University,NY,,Private,2013,46
+1852,Brigham Young University,UT,Big 12,Private,2013,68
+1853,Howard University,DC,MEAC,Private,2013,120
+1854,Iowa State University,IA,Big 12,Public,2013,101
+1856,University of Arizona,AZ,Big 12,Public,2013,120
+1857,University of New Hampshire,NH,AmEast,Public,2013,106
+1866,University of Denver,CO,The Summit,Private,2013,83
+1867,University of Missouri,MZ,SEC,Public,2013,97
+1868,University of Oklahoma,OK,SEC,Public,2013,101
+1869,University of South Carolina,SC,SEC,Public,2013,115
+1873,Miami University,OH,MAC,Public,2013,89
+1875,University of Dayton,OH,A-10,Private,2013,115
+1878,University of Vermont,VT,AmEast,Public,2013,92
+1879,Clark University,MA,,Private,2013,83
+1880,Clarkson University,NY,Liberty,Private,2013,115
+1881,Loyola University Chicago,IL,A-10,Private,2013,106
+1884,University of Alabama,AL,SEC,Public,2013,77
+1886,University of the Pacific,CA,WCC,Private,2013,106
+1888,Colorado State University,CO,MW,Public,2013,134
+1891,Michigan Technological University,MI,,Public,2013,120
+1894,University of Kansas,KS,Big 12,Public,2013,106
+1896,Princeton University,NJ,Ivy League,Private,2012,1
+1897,Massachusetts Institute of Technology,MA,NEWMAC,Private,2012,5
+1898,Harvard University,MA,Ivy League,Private,2012,1
+1899,Stanford University,CA,ACC,Private,2012,5
+1900,Yale University,CT,Ivy League,Private,2012,3
+1901,University of Pennsylvania,PA,Ivy League,Private,2012,5
+1902,California Institute of Technology,CA,SCIAC,Private,2012,5
+1903,Duke University,NC,ACC,Private,2012,10
+1904,Brown University,RI,Ivy League,Private,2012,15
+1905,Johns Hopkins University,MD,Centennial,Private,2012,13
+1906,Northwestern University,IL,Big 10,Private,2012,12
+1907,Columbia University,NY,Ivy League,Private,2012,4
+1908,Cornell University,NY,Ivy League,Private,2012,15
+1909,University of Chicago,IL,UAA,Private,2012,5
+1910,University of California-Berkeley,CA,ACC,Public,2012,21
+1911,University of California-Los Angeles,CA,Big 10,Public,2012,25
+1912,Rice University,TX,AAC,Private,2012,17
+1913,Dartmouth College,NH,Ivy League,Private,2012,11
+1914,Vanderbilt University,TN,SEC,Private,2012,17
+1915,University of Notre Dame,IN,ACC,Private,2012,19
+1916,University of Michigan-Ann Arbor,MI,Big 10,Public,2012,28
+1917,Georgetown University,DC,Big East,Private,2012,22
+1918,University of North Carolina-Chapel Hill,NC,ACC,Public,2012,29
+1919,Carnegie Mellon University,PA,UAA,Private,2012,23
+1920,Emory University,GA,UAA,Private,2012,20
+1921,University of Virginia,VA,ACC,Public,2012,25
+1922,Washington University in St. Louis,MO,UAA,Private,2012,14
+1923,University of California-Davis,CA,BWC,Public,2012,38
+1924,University of California-San Diego,CA,BWC,Public,2012,37
+1925,University of Florida,FL,SEC,Public,2012,58
+1926,University of Southern California,CA,Big 10,Private,2012,23
+1927,University of Texas-Austin,TX,SEC,Public,2012,45
+1928,Georgia Institute of Technology,GA,ACC,Public,2012,36
+1929,University of California-Irvine,CA,BWC,Public,2012,45
+1930,New York University,NY,UAA,Private,2012,33
+1931,University of California-Santa Barbara,CA,BWC,Public,2012,42
+1932,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2012,45
+1933,University of Wisconsin-Madison,WI,Big 10,Public,2012,42
+1934,Boston College,MA,ACC,Private,2012,31
+1935,Rutgers University-New Brunswick,NJ,Big 10,Public,2012,68
+1936,Tufts University,MA,NESCAC,Private,2012,29
+1937,University of Washington,WA,Big 10,Public,2012,42
+1938,Boston University,MA,Patriot,Private,2012,53
+1939,Ohio State University-Columbus,OH,Big 10,Public,2012,55
+1940,Purdue University,IN,Big 10,Public,2012,62
+1941,University of Maryland,MD,Big 10,Public,2012,55
+1942,Lehigh University,PA,Patriot,Private,2012,38
+1943,Texas A&M University-College Station,TX,SEC,Public,2012,58
+1944,University of Georgia,GA,SEC,Public,2012,62
+1945,University of Rochester,NY,UAA,Private,2012,35
+1946,Virginia Polytechnic Institute and State University,VA,ACC,Public,2012,71
+1947,Wake Forest University,NC,ACC,Private,2012,25
+1948,Case Western Reserve University,OH,UAA,Private,2012,38
+1949,College of William and Mary,VA,CAA,Public,2012,33
+1950,Florida State University,FL,ACC,Public,2012,101
+1951,Northeastern University,MA,CAA,Private,2012,62
+1952,University of Minnesota,MN,Big 10,Public,2012,68
+1953,Stony Brook University,NY,CAA,Public,2012,111
+1954,University of Connecticut,CT,Big East,Public,2012,58
+1955,Brandeis University,MA,UAA,Private,2012,31
+1956,Michigan State University,MI,Big 10,Public,2012,71
+1957,North Carolina State University,NC,ACC,Public,2012,101
+1958,Pennsylvania State University-University Park,PA,Big 10,Public,2012,45
+1959,Rensselaer Polytechnic Institute,NY,Liberty,Private,2012,50
+1962,George Washington University,DC,A-10,Private,2012,50
+1963,Syracuse University,NY,ACC,Private,2012,62
+1964,University of Massachusetts-Amherst,MA,A-10,Public,2012,94
+1965,University of Miami,FL,ACC,Private,2012,38
+1966,University of Pittsburgh,PA,ACC,Public,2012,58
+1968,Binghamton University,NY,AmEast,Public,2012,88
+1969,Indiana University-Bloomington,IN,Big 10,Public,2012,75
+1970,Tulane University,LA,AAC,Private,2012,50
+1971,Colorado School of Mines,CO,RMC,Public,2012,75
+1972,Pepperdine University,CA,WCC,Private,2012,55
+1973,Stevens Institute of Technology,NJ,MAC,Private,2012,88
+1974,University of Buffalo,NY,MAC,Public,2012,111
+1975,University of California-Riverside,CA,BWC,Public,2012,97
+1976,University of Delaware,DE,C-USA,Public,2012,75
+1978,University of California-Santa Cruz,CA,C2C,Public,2012,75
+1980,Worcester Polytechnic Institute,MA,NEWMAC,Private,2012,62
+1981,Clemson University,SC,ACC,Public,2012,68
+1982,Marquette University,WI,Big East,Private,2012,82
+1984,Fordham University,NY,A-10,Private,2012,53
+1985,Southern Methodist University,TX,ACC,Private,2012,62
+1988,Auburn University,AL,SEC,Public,2012,82
+1989,Baylor University,TX,Big 12,Private,2012,75
+1992,University of Iowa,IA,Big 10,Public,2012,71
+1993,Drexel University,PA,CAA,Private,2012,88
+1994,Illinois Institute of Technology,IL,NACC,Private,2012,111
+1997,Texas Christian University,TX,Big 12,Private,2012,97
+1998,University of Oregon,OR,Big 10,Public,2012,101
+1999,University of San Diego,CA,WCC,Private,2012,97
+2000,American University,DC,Patriot,Private,2012,82
+2001,Arizona State University-Tempe,AZ,Big 12,Public,2012,132
+2005,Saint Louis University,MZ,A-10,Private,2012,88
+2007,University of Colorado-Boulder,CO,Big 12,Public,2012,94
+2008,University of Tennessee,TN,SEC,Public,2012,101
+2009,Yeshiva University,NY,,Private,2012,45
+2010,Brigham Young University,UT,Big 12,Private,2012,71
+2011,Howard University,DC,MEAC,Private,2012,111
+2012,Iowa State University,IA,Big 12,Public,2012,94
+2014,University of Arizona,AZ,Big 12,Public,2012,124
+2015,University of New Hampshire,NH,AmEast,Public,2012,101
+2024,University of Denver,CO,The Summit,Private,2012,82
+2025,University of Missouri,MZ,SEC,Public,2012,90
+2026,University of Oklahoma,OK,SEC,Public,2012,101
+2027,University of South Carolina,SC,SEC,Public,2012,111
+2031,Miami University,OH,MAC,Public,2012,90
+2033,University of Dayton,OH,A-10,Private,2012,101
+2036,University of Vermont,VT,AmEast,Public,2012,82
+2037,Clark University,MA,,Private,2012,94
+2038,Clarkson University,NY,Liberty,Private,2012,119
+2039,Loyola University Chicago,IL,A-10,Private,2012,119
+2042,University of Alabama,AL,SEC,Public,2012,75
+2044,University of the Pacific,CA,WCC,Private,2012,101
+2046,Colorado State University,CO,MW,Public,2012,128
+2049,Michigan Technological University,MI,,Public,2012,111
+2052,University of Kansas,KS,Big 12,Public,2012,101
+2054,Princeton University,NJ,Ivy League,Private,2011,2
+2055,Massachusetts Institute of Technology,MA,NEWMAC,Private,2011,7
+2056,Harvard University,MA,Ivy League,Private,2011,1
+2057,Stanford University,CA,ACC,Private,2011,5
+2058,Yale University,CT,Ivy League,Private,2011,3
+2059,University of Pennsylvania,PA,Ivy League,Private,2011,5
+2060,California Institute of Technology,CA,SCIAC,Private,2011,7
+2061,Duke University,NC,ACC,Private,2011,9
+2062,Brown University,RI,Ivy League,Private,2011,15
+2063,Johns Hopkins University,MD,Centennial,Private,2011,13
+2064,Northwestern University,IL,Big 10,Private,2011,12
+2065,Columbia University,NY,Ivy League,Private,2011,4
+2066,Cornell University,NY,Ivy League,Private,2011,15
+2067,University of Chicago,IL,UAA,Private,2011,9
+2068,University of California-Berkeley,CA,ACC,Public,2011,22
+2069,University of California-Los Angeles,CA,Big 10,Public,2011,25
+2070,Rice University,TX,AAC,Private,2011,17
+2071,Dartmouth College,NH,Ivy League,Private,2011,9
+2072,Vanderbilt University,TN,SEC,Private,2011,17
+2073,University of Notre Dame,IN,ACC,Private,2011,19
+2074,University of Michigan-Ann Arbor,MI,Big 10,Public,2011,29
+2075,Georgetown University,DC,Big East,Private,2011,21
+2076,University of North Carolina-Chapel Hill,NC,ACC,Public,2011,30
+2077,Carnegie Mellon University,PA,UAA,Private,2011,23
+2078,Emory University,GA,UAA,Private,2011,20
+2079,University of Virginia,VA,ACC,Public,2011,25
+2080,Washington University in St. Louis,MO,UAA,Private,2011,13
+2081,University of California-Davis,CA,BWC,Public,2011,39
+2082,University of California-San Diego,CA,BWC,Public,2011,35
+2083,University of Florida,FL,SEC,Public,2011,53
+2084,University of Southern California,CA,Big 10,Private,2011,23
+2085,University of Texas-Austin,TX,SEC,Public,2011,45
+2086,Georgia Institute of Technology,GA,ACC,Public,2011,35
+2087,University of California-Irvine,CA,BWC,Public,2011,41
+2088,New York University,NY,UAA,Private,2011,33
+2089,University of California-Santa Barbara,CA,BWC,Public,2011,39
+2090,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2011,47
+2091,University of Wisconsin-Madison,WI,Big 10,Public,2011,45
+2092,Boston College,MA,ACC,Private,2011,31
+2093,Rutgers University-New Brunswick,NJ,Big 10,Public,2011,64
+2094,Tufts University,MA,NESCAC,Private,2011,28
+2095,University of Washington,WA,Big 10,Public,2011,41
+2096,Boston University,MA,Patriot,Private,2011,56
+2097,Ohio State University-Columbus,OH,Big 10,Public,2011,56
+2098,Purdue University,IN,Big 10,Public,2011,56
+2099,University of Maryland,MD,Big 10,Public,2011,56
+2100,Lehigh University,PA,Patriot,Private,2011,37
+2101,Texas A&M University-College Station,TX,SEC,Public,2011,63
+2102,University of Georgia,GA,SEC,Public,2011,56
+2103,University of Rochester,NY,UAA,Private,2011,37
+2104,Virginia Polytechnic Institute and State University,VA,ACC,Public,2011,69
+2105,Wake Forest University,NC,ACC,Private,2011,25
+2106,Case Western Reserve University,OH,UAA,Private,2011,41
+2107,College of William and Mary,VA,CAA,Public,2011,31
+2108,Florida State University,FL,ACC,Public,2011,104
+2109,Northeastern University,MA,CAA,Private,2011,69
+2110,University of Minnesota,MN,Big 10,Public,2011,64
+2111,Stony Brook University,NY,CAA,Public,2011,99
+2112,University of Connecticut,CT,Big East,Public,2011,69
+2113,Brandeis University,MA,UAA,Private,2011,34
+2114,Michigan State University,MI,Big 10,Public,2011,79
+2115,North Carolina State University,NC,ACC,Public,2011,111
+2116,Pennsylvania State University-University Park,PA,Big 10,Public,2011,47
+2117,Rensselaer Polytechnic Institute,NY,Liberty,Private,2011,41
+2120,George Washington University,DC,A-10,Private,2011,51
+2121,Syracuse University,NY,ACC,Private,2011,55
+2122,University of Massachusetts-Amherst,MA,A-10,Public,2011,99
+2123,University of Miami,FL,ACC,Private,2011,47
+2124,University of Pittsburgh,PA,ACC,Public,2011,64
+2126,Binghamton University,NY,AmEast,Public,2011,86
+2127,Indiana University-Bloomington,IN,Big 10,Public,2011,75
+2128,Tulane University,LA,AAC,Private,2011,51
+2129,Colorado School of Mines,CO,RMC,Public,2011,72
+2130,Pepperdine University,CA,WCC,Private,2011,53
+2131,Stevens Institute of Technology,NJ,MAC,Private,2011,86
+2132,University of Buffalo,NY,MAC,Public,2011,120
+2133,University of California-Riverside,CA,BWC,Public,2011,94
+2134,University of Delaware,DE,C-USA,Public,2011,75
+2136,University of California-Santa Cruz,CA,C2C,Public,2011,72
+2138,Worcester Polytechnic Institute,MA,NEWMAC,Private,2011,64
+2139,Clemson University,SC,ACC,Public,2011,64
+2140,Marquette University,WI,Big East,Private,2011,75
+2142,Fordham University,NY,A-10,Private,2011,56
+2143,Southern Methodist University,TX,ACC,Private,2011,56
+2146,Auburn University,AL,SEC,Public,2011,85
+2147,Baylor University,TX,Big 12,Private,2011,79
+2150,University of Iowa,IA,Big 10,Public,2011,72
+2151,Drexel University,PA,CAA,Private,2011,86
+2152,Illinois Institute of Technology,IL,NACC,Private,2011,111
+2155,Texas Christian University,TX,Big 12,Private,2011,99
+2156,University of Oregon,OR,Big 10,Public,2011,111
+2157,University of San Diego,CA,WCC,Private,2011,94
+2158,American University,DC,Patriot,Private,2011,79
+2159,Arizona State University-Tempe,AZ,Big 12,Public,2011,143
+2163,Saint Louis University,MZ,A-10,Private,2011,86
+2165,University of Colorado-Boulder,CO,Big 12,Public,2011,86
+2166,University of Tennessee,TN,SEC,Public,2011,104
+2167,Yeshiva University,NY,,Private,2011,50
+2168,Brigham Young University,UT,Big 12,Private,2011,75
+2169,Howard University,DC,MEAC,Private,2011,104
+2170,Iowa State University,IA,Big 12,Public,2011,94
+2172,University of Arizona,AZ,Big 12,Public,2011,120
+2173,University of New Hampshire,NH,AmEast,Public,2011,104
+2182,University of Denver,CO,The Summit,Private,2011,86
+2183,University of Missouri,MZ,SEC,Public,2011,94
+2184,University of Oklahoma,OK,SEC,Public,2011,111
+2185,University of South Carolina,SC,SEC,Public,2011,111
+2189,Miami University,OH,MAC,Public,2011,79
+2191,University of Dayton,OH,A-10,Private,2011,99
+2194,University of Vermont,VT,AmEast,Public,2011,94
+2195,Clark University,MA,,Private,2011,86
+2196,Clarkson University,NY,Liberty,Private,2011,124
+2197,Loyola University Chicago,IL,A-10,Private,2011,117
+2200,University of Alabama,AL,SEC,Public,2011,79
+2202,University of the Pacific,CA,WCC,Private,2011,99
+2204,Colorado State University,CO,MW,Public,2011,124
+2207,Michigan Technological University,MI,,Public,2011,117
+2210,University of Kansas,KS,Big 12,Public,2011,104
+2212,Princeton University,NJ,Ivy League,Private,2010,1
+2213,Massachusetts Institute of Technology,MA,NEWMAC,Private,2010,4
+2214,Harvard University,MA,Ivy League,Private,2010,1
+2215,Stanford University,CA,ACC,Private,2010,4
+2216,Yale University,CT,Ivy League,Private,2010,3
+2217,University of Pennsylvania,PA,Ivy League,Private,2010,4
+2218,California Institute of Technology,CA,SCIAC,Private,2010,4
+2219,Duke University,NC,ACC,Private,2010,10
+2220,Brown University,RI,Ivy League,Private,2010,16
+2221,Johns Hopkins University,MD,Centennial,Private,2010,14
+2222,Northwestern University,IL,Big 10,Private,2010,12
+2223,Columbia University,NY,Ivy League,Private,2010,8
+2224,Cornell University,NY,Ivy League,Private,2010,15
+2225,University of Chicago,IL,UAA,Private,2010,8
+2226,University of California-Berkeley,CA,ACC,Public,2010,21
+2227,University of California-Los Angeles,CA,Big 10,Public,2010,24
+2228,Rice University,TX,AAC,Private,2010,17
+2229,Dartmouth College,NH,Ivy League,Private,2010,11
+2230,Vanderbilt University,TN,SEC,Private,2010,17
+2231,University of Notre Dame,IN,ACC,Private,2010,20
+2232,University of Michigan-Ann Arbor,MI,Big 10,Public,2010,27
+2233,Georgetown University,DC,Big East,Private,2010,23
+2234,University of North Carolina-Chapel Hill,NC,ACC,Public,2010,28
+2235,Carnegie Mellon University,PA,UAA,Private,2010,22
+2236,Emory University,GA,UAA,Private,2010,17
+2237,University of Virginia,VA,ACC,Public,2010,24
+2238,Washington University in St. Louis,MO,UAA,Private,2010,12
+2239,University of California-Davis,CA,BWC,Public,2010,42
+2240,University of California-San Diego,CA,BWC,Public,2010,35
+2241,University of Florida,FL,SEC,Public,2010,47
+2242,University of Southern California,CA,Big 10,Private,2010,26
+2243,University of Texas-Austin,TX,SEC,Public,2010,47
+2244,Georgia Institute of Technology,GA,ACC,Public,2010,35
+2245,University of California-Irvine,CA,BWC,Public,2010,46
+2246,New York University,NY,UAA,Private,2010,32
+2247,University of California-Santa Barbara,CA,BWC,Public,2010,42
+2248,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2010,39
+2249,University of Wisconsin-Madison,WI,Big 10,Public,2010,39
+2250,Boston College,MA,ACC,Private,2010,34
+2251,Rutgers University-New Brunswick,NJ,Big 10,Public,2010,66
+2252,Tufts University,MA,NESCAC,Private,2010,28
+2253,University of Washington,WA,Big 10,Public,2010,42
+2254,Boston University,MA,Patriot,Private,2010,56
+2255,Ohio State University-Columbus,OH,Big 10,Public,2010,53
+2256,Purdue University,IN,Big 10,Public,2010,61
+2257,University of Maryland,MD,Big 10,Public,2010,53
+2258,Lehigh University,PA,Patriot,Private,2010,35
+2259,Texas A&M University-College Station,TX,SEC,Public,2010,61
+2260,University of Georgia,GA,SEC,Public,2010,58
+2261,University of Rochester,NY,UAA,Private,2010,35
+2262,Virginia Polytechnic Institute and State University,VA,ACC,Public,2010,71
+2263,Wake Forest University,NC,ACC,Private,2010,28
+2264,Case Western Reserve University,OH,UAA,Private,2010,41
+2265,College of William and Mary,VA,CAA,Public,2010,33
+2266,Florida State University,FL,ACC,Public,2010,102
+2267,Northeastern University,MA,CAA,Private,2010,80
+2268,University of Minnesota,MN,Big 10,Public,2010,61
+2269,Stony Brook University,NY,CAA,Public,2010,96
+2270,University of Connecticut,CT,Big East,Public,2010,66
+2271,Brandeis University,MA,UAA,Private,2010,31
+2272,Michigan State University,MI,Big 10,Public,2010,71
+2273,North Carolina State University,NC,ACC,Public,2010,88
+2274,Pennsylvania State University-University Park,PA,Big 10,Public,2010,47
+2275,Rensselaer Polytechnic Institute,NY,Liberty,Private,2010,42
+2278,George Washington University,DC,A-10,Private,2010,53
+2279,Syracuse University,NY,ACC,Private,2010,58
+2280,University of Massachusetts-Amherst,MA,A-10,Public,2010,106
+2281,University of Miami,FL,ACC,Private,2010,50
+2282,University of Pittsburgh,PA,ACC,Public,2010,56
+2284,Binghamton University,NY,AmEast,Public,2010,80
+2285,Indiana University-Bloomington,IN,Big 10,Public,2010,71
+2286,Tulane University,LA,AAC,Private,2010,50
+2287,Colorado School of Mines,CO,RMC,Public,2010,77
+2288,Pepperdine University,CA,WCC,Private,2010,58
+2289,Stevens Institute of Technology,NJ,MAC,Private,2010,84
+2290,University of Buffalo,NY,MAC,Public,2010,121
+2291,University of California-Riverside,CA,BWC,Public,2010,96
+2292,University of Delaware,DE,C-USA,Public,2010,68
+2294,University of California-Santa Cruz,CA,C2C,Public,2010,71
+2296,Worcester Polytechnic Institute,MA,NEWMAC,Private,2010,68
+2297,Clemson University,SC,ACC,Public,2010,61
+2298,Marquette University,WI,Big East,Private,2010,84
+2300,Fordham University,NY,A-10,Private,2010,61
+2301,Southern Methodist University,TX,ACC,Private,2010,68
+2304,Auburn University,AL,SEC,Public,2010,88
+2305,Baylor University,TX,Big 12,Private,2010,80
+2308,University of Iowa,IA,Big 10,Public,2010,71
+2309,Drexel University,PA,CAA,Private,2010,88
+2310,Illinois Institute of Technology,IL,NACC,Private,2010,106
+2313,Texas Christian University,TX,Big 12,Private,2010,110
+2314,University of Oregon,OR,Big 10,Public,2010,115
+2315,University of San Diego,CA,WCC,Private,2010,110
+2316,American University,DC,Patriot,Private,2010,84
+2317,Arizona State University-Tempe,AZ,Big 12,Public,2010,121
+2321,Saint Louis University,MZ,A-10,Private,2010,84
+2323,University of Colorado-Boulder,CO,Big 12,Public,2010,77
+2324,University of Tennessee,TN,SEC,Public,2010,106
+2325,Yeshiva University,NY,,Private,2010,52
+2326,Brigham Young University,UT,Big 12,Private,2010,71
+2327,Howard University,DC,MEAC,Private,2010,96
+2328,Iowa State University,IA,Big 12,Public,2010,88
+2330,University of Arizona,AZ,Big 12,Public,2010,102
+2331,University of New Hampshire,NH,AmEast,Public,2010,110
+2340,University of Denver,CO,The Summit,Private,2010,84
+2341,University of Missouri,MZ,SEC,Public,2010,102
+2342,University of Oklahoma,OK,SEC,Public,2010,102
+2343,University of South Carolina,SC,SEC,Public,2010,110
+2347,Miami University,OH,MAC,Public,2010,77
+2349,University of Dayton,OH,A-10,Private,2010,110
+2352,University of Vermont,VT,AmEast,Public,2010,88
+2353,Clark University,MA,,Private,2010,88
+2354,Clarkson University,NY,Liberty,Private,2010,119
+2355,Loyola University Chicago,IL,A-10,Private,2010,119
+2358,University of Alabama,AL,SEC,Public,2010,96
+2360,University of the Pacific,CA,WCC,Private,2010,115
+2362,Colorado State University,CO,MW,Public,2010,128
+2365,Michigan Technological University,MI,,Public,2010,121
+2368,University of Kansas,KS,Big 12,Public,2010,96
+2370,Princeton University,NJ,Ivy League,Private,2009,2
+2371,Massachusetts Institute of Technology,MA,NEWMAC,Private,2009,4
+2372,Harvard University,MA,Ivy League,Private,2009,1
+2373,Stanford University,CA,ACC,Private,2009,4
+2374,Yale University,CT,Ivy League,Private,2009,3
+2375,University of Pennsylvania,PA,Ivy League,Private,2009,6
+2376,California Institute of Technology,CA,SCIAC,Private,2009,6
+2377,Duke University,NC,ACC,Private,2009,8
+2378,Brown University,RI,Ivy League,Private,2009,16
+2379,Johns Hopkins University,MD,Centennial,Private,2009,15
+2380,Northwestern University,IL,Big 10,Private,2009,12
+2381,Columbia University,NY,Ivy League,Private,2009,8
+2382,Cornell University,NY,Ivy League,Private,2009,14
+2383,University of Chicago,IL,UAA,Private,2009,8
+2384,University of California-Berkeley,CA,ACC,Public,2009,21
+2385,University of California-Los Angeles,CA,Big 10,Public,2009,25
+2386,Rice University,TX,AAC,Private,2009,17
+2387,Dartmouth College,NH,Ivy League,Private,2009,11
+2388,Vanderbilt University,TN,SEC,Private,2009,18
+2389,University of Notre Dame,IN,ACC,Private,2009,18
+2390,University of Michigan-Ann Arbor,MI,Big 10,Public,2009,26
+2391,Georgetown University,DC,Big East,Private,2009,23
+2392,University of North Carolina-Chapel Hill,NC,ACC,Public,2009,30
+2393,Carnegie Mellon University,PA,UAA,Private,2009,22
+2394,Emory University,GA,UAA,Private,2009,18
+2395,University of Virginia,VA,ACC,Public,2009,23
+2396,Washington University in St. Louis,MO,UAA,Private,2009,12
+2397,University of California-Davis,CA,BWC,Public,2009,44
+2398,University of California-San Diego,CA,BWC,Public,2009,35
+2399,University of Florida,FL,SEC,Public,2009,49
+2400,University of Southern California,CA,Big 10,Private,2009,27
+2401,University of Texas-Austin,TX,SEC,Public,2009,47
+2402,Georgia Institute of Technology,GA,ACC,Public,2009,35
+2403,University of California-Irvine,CA,BWC,Public,2009,44
+2404,New York University,NY,UAA,Private,2009,33
+2405,University of California-Santa Barbara,CA,BWC,Public,2009,44
+2406,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2009,40
+2407,University of Wisconsin-Madison,WI,Big 10,Public,2009,35
+2408,Boston College,MA,ACC,Private,2009,34
+2409,Rutgers University-New Brunswick,NJ,Big 10,Public,2009,64
+2410,Tufts University,MA,NESCAC,Private,2009,28
+2411,University of Washington,WA,Big 10,Public,2009,41
+2412,Boston University,MA,Patriot,Private,2009,60
+2413,Ohio State University-Columbus,OH,Big 10,Public,2009,56
+2414,Purdue University,IN,Big 10,Public,2009,66
+2415,University of Maryland,MD,Big 10,Public,2009,53
+2416,Lehigh University,PA,Patriot,Private,2009,35
+2417,Texas A&M University-College Station,TX,SEC,Public,2009,64
+2418,University of Georgia,GA,SEC,Public,2009,58
+2419,University of Rochester,NY,UAA,Private,2009,35
+2420,Virginia Polytechnic Institute and State University,VA,ACC,Public,2009,71
+2421,Wake Forest University,NC,ACC,Private,2009,28
+2422,Case Western Reserve University,OH,UAA,Private,2009,41
+2423,College of William and Mary,VA,CAA,Public,2009,32
+2424,Florida State University,FL,ACC,Public,2009,102
+2425,Northeastern University,MA,CAA,Private,2009,96
+2426,University of Minnesota,MN,Big 10,Public,2009,61
+2427,Stony Brook University,NY,CAA,Public,2009,96
+2428,University of Connecticut,CT,Big East,Public,2009,66
+2429,Brandeis University,MA,UAA,Private,2009,31
+2430,Michigan State University,MI,Big 10,Public,2009,71
+2431,North Carolina State University,NC,ACC,Public,2009,83
+2432,Pennsylvania State University-University Park,PA,Big 10,Public,2009,47
+2433,Rensselaer Polytechnic Institute,NY,Liberty,Private,2009,41
+2436,George Washington University,DC,A-10,Private,2009,53
+2437,Syracuse University,NY,ACC,Private,2009,53
+2438,University of Massachusetts-Amherst,MA,A-10,Public,2009,102
+2439,University of Miami,FL,ACC,Private,2009,51
+2440,University of Pittsburgh,PA,ACC,Public,2009,58
+2442,Binghamton University,NY,AmEast,Public,2009,77
+2443,Indiana University-Bloomington,IN,Big 10,Public,2009,71
+2444,Tulane University,LA,AAC,Private,2009,51
+2445,Colorado School of Mines,CO,RMC,Public,2009,80
+2446,Pepperdine University,CA,WCC,Private,2009,56
+2447,Stevens Institute of Technology,NJ,MAC,Private,2009,83
+2448,University of Buffalo,NY,MAC,Public,2009,121
+2449,University of California-Riverside,CA,BWC,Public,2009,89
+2450,University of Delaware,DE,C-USA,Public,2009,71
+2452,University of California-Santa Cruz,CA,C2C,Public,2009,96
+2454,Worcester Polytechnic Institute,MA,NEWMAC,Private,2009,71
+2455,Clemson University,SC,ACC,Public,2009,61
+2456,Marquette University,WI,Big East,Private,2009,77
+2458,Fordham University,NY,A-10,Private,2009,61
+2459,Southern Methodist University,TX,ACC,Private,2009,66
+2462,Auburn University,AL,SEC,Public,2009,96
+2463,Baylor University,TX,Big 12,Private,2009,76
+2466,University of Iowa,IA,Big 10,Public,2009,66
+2467,Drexel University,PA,CAA,Private,2009,89
+2468,Illinois Institute of Technology,IL,NACC,Private,2009,102
+2471,Texas Christian University,TX,Big 12,Private,2009,113
+2472,University of Oregon,OR,Big 10,Public,2009,108
+2473,University of San Diego,CA,WCC,Private,2009,102
+2474,American University,DC,Patriot,Private,2009,83
+2475,Arizona State University-Tempe,AZ,Big 12,Public,2009,121
+2479,Saint Louis University,MZ,A-10,Private,2009,80
+2481,University of Colorado-Boulder,CO,Big 12,Public,2009,77
+2482,University of Tennessee,TN,SEC,Public,2009,108
+2483,Yeshiva University,NY,,Private,2009,50
+2484,Brigham Young University,UT,Big 12,Private,2009,113
+2485,Howard University,DC,MEAC,Private,2009,102
+2486,Iowa State University,IA,Big 12,Public,2009,89
+2488,University of Arizona,AZ,Big 12,Public,2009,96
+2489,University of New Hampshire,NH,AmEast,Public,2009,113
+2498,University of Denver,CO,The Summit,Private,2009,89
+2499,University of Missouri,MZ,SEC,Public,2009,96
+2500,University of Oklahoma,OK,SEC,Public,2009,108
+2501,University of South Carolina,SC,SEC,Public,2009,108
+2505,Miami University,OH,MAC,Public,2009,66
+2507,University of Dayton,OH,A-10,Private,2009,108
+2510,University of Vermont,VT,AmEast,Public,2009,89
+2511,Clark University,MA,,Private,2009,80
+2512,Clarkson University,NY,Liberty,Private,2009,121
+2513,Loyola University Chicago,IL,A-10,Private,2009,116
+2516,University of Alabama,AL,SEC,Public,2009,83
+2518,University of the Pacific,CA,WCC,Private,2009,102
+2520,Colorado State University,CO,MW,Public,2009,125
+2523,Michigan Technological University,MI,,Public,2009,121
+2526,University of Kansas,KS,Big 12,Public,2009,89
+2528,Princeton University,NJ,Ivy League,Private,2008,1
+2529,Massachusetts Institute of Technology,MA,NEWMAC,Private,2008,7
+2530,Harvard University,MA,Ivy League,Private,2008,2
+2531,Stanford University,CA,ACC,Private,2008,4
+2532,Yale University,CT,Ivy League,Private,2008,3
+2533,University of Pennsylvania,PA,Ivy League,Private,2008,5
+2534,California Institute of Technology,CA,SCIAC,Private,2008,5
+2535,Duke University,NC,ACC,Private,2008,8
+2536,Brown University,RI,Ivy League,Private,2008,14
+2537,Johns Hopkins University,MD,Centennial,Private,2008,14
+2538,Northwestern University,IL,Big 10,Private,2008,14
+2539,Columbia University,NY,Ivy League,Private,2008,9
+2540,Cornell University,NY,Ivy League,Private,2008,12
+2541,University of Chicago,IL,UAA,Private,2008,9
+2542,University of California-Berkeley,CA,ACC,Public,2008,21
+2543,University of California-Los Angeles,CA,Big 10,Public,2008,25
+2544,Rice University,TX,AAC,Private,2008,17
+2545,Dartmouth College,NH,Ivy League,Private,2008,11
+2546,Vanderbilt University,TN,SEC,Private,2008,19
+2547,University of Notre Dame,IN,ACC,Private,2008,19
+2548,University of Michigan-Ann Arbor,MI,Big 10,Public,2008,25
+2549,Georgetown University,DC,Big East,Private,2008,23
+2550,University of North Carolina-Chapel Hill,NC,ACC,Public,2008,28
+2551,Carnegie Mellon University,PA,UAA,Private,2008,22
+2552,Emory University,GA,UAA,Private,2008,17
+2553,University of Virginia,VA,ACC,Public,2008,23
+2554,Washington University in St. Louis,MO,UAA,Private,2008,12
+2555,University of California-Davis,CA,BWC,Public,2008,42
+2556,University of California-San Diego,CA,BWC,Public,2008,38
+2557,University of Florida,FL,SEC,Public,2008,49
+2558,University of Southern California,CA,Big 10,Private,2008,27
+2559,University of Texas-Austin,TX,SEC,Public,2008,44
+2560,Georgia Institute of Technology,GA,ACC,Public,2008,35
+2561,University of California-Irvine,CA,BWC,Public,2008,44
+2562,New York University,NY,UAA,Private,2008,34
+2563,University of California-Santa Barbara,CA,BWC,Public,2008,44
+2564,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2008,38
+2565,University of Wisconsin-Madison,WI,Big 10,Public,2008,38
+2566,Boston College,MA,ACC,Private,2008,35
+2567,Rutgers University-New Brunswick,NJ,Big 10,Public,2008,59
+2568,Tufts University,MA,NESCAC,Private,2008,28
+2569,University of Washington,WA,Big 10,Public,2008,42
+2570,Boston University,MA,Patriot,Private,2008,57
+2571,Ohio State University-Columbus,OH,Big 10,Public,2008,57
+2572,Purdue University,IN,Big 10,Public,2008,64
+2573,University of Maryland,MD,Big 10,Public,2008,54
+2574,Lehigh University,PA,Patriot,Private,2008,31
+2575,Texas A&M University-College Station,TX,SEC,Public,2008,62
+2576,University of Georgia,GA,SEC,Public,2008,59
+2577,University of Rochester,NY,UAA,Private,2008,35
+2578,Virginia Polytechnic Institute and State University,VA,ACC,Public,2008,71
+2579,Wake Forest University,NC,ACC,Private,2008,30
+2580,Case Western Reserve University,OH,UAA,Private,2008,41
+2581,College of William and Mary,VA,CAA,Public,2008,33
+2582,Florida State University,FL,ACC,Public,2008,112
+2583,Northeastern University,MA,CAA,Private,2008,96
+2584,University of Minnesota,MN,Big 10,Public,2008,71
+2585,Stony Brook University,NY,CAA,Public,2008,96
+2586,University of Connecticut,CT,Big East,Public,2008,64
+2587,Brandeis University,MA,UAA,Private,2008,31
+2588,Michigan State University,MI,Big 10,Public,2008,71
+2589,North Carolina State University,NC,ACC,Public,2008,85
+2590,Pennsylvania State University-University Park,PA,Big 10,Public,2008,48
+2591,Rensselaer Polytechnic Institute,NY,Liberty,Private,2008,44
+2594,George Washington University,DC,A-10,Private,2008,54
+2595,Syracuse University,NY,ACC,Private,2008,50
+2596,University of Massachusetts-Amherst,MA,A-10,Public,2008,96
+2597,University of Miami,FL,ACC,Private,2008,52
+2598,University of Pittsburgh,PA,ACC,Public,2008,59
+2600,Binghamton University,NY,AmEast,Public,2008,82
+2601,Indiana University-Bloomington,IN,Big 10,Public,2008,75
+2602,Tulane University,LA,AAC,Private,2008,50
+2603,Colorado School of Mines,CO,RMC,Public,2008,75
+2604,Pepperdine University,CA,WCC,Private,2008,54
+2605,Stevens Institute of Technology,NJ,MAC,Private,2008,75
+2606,University of Buffalo,NY,MAC,Public,2008,118
+2607,University of California-Riverside,CA,BWC,Public,2008,96
+2608,University of Delaware,DE,C-USA,Public,2008,71
+2610,University of California-Santa Cruz,CA,C2C,Public,2008,79
+2612,Worcester Polytechnic Institute,MA,NEWMAC,Private,2008,62
+2613,Clemson University,SC,ACC,Public,2008,67
+2614,Marquette University,WI,Big East,Private,2008,82
+2616,Fordham University,NY,A-10,Private,2008,67
+2617,Southern Methodist University,TX,ACC,Private,2008,67
+2620,Auburn University,AL,SEC,Public,2008,96
+2621,Baylor University,TX,Big 12,Private,2008,75
+2624,University of Iowa,IA,Big 10,Public,2008,64
+2625,Drexel University,PA,CAA,Private,2008,108
+2626,Illinois Institute of Technology,IL,NACC,Private,2008,96
+2629,Texas Christian University,TX,Big 12,Private,2008,108
+2630,University of Oregon,OR,Big 10,Public,2008,112
+2631,University of San Diego,CA,WCC,Private,2008,107
+2632,American University,DC,Patriot,Private,2008,85
+2633,Arizona State University-Tempe,AZ,Big 12,Public,2008,124
+2637,Saint Louis University,MZ,A-10,Private,2008,82
+2639,University of Colorado-Boulder,CO,Big 12,Public,2008,79
+2640,University of Tennessee,TN,SEC,Public,2008,96
+2641,Yeshiva University,NY,,Private,2008,52
+2642,Brigham Young University,UT,Big 12,Private,2008,79
+2643,Howard University,DC,MEAC,Private,2008,96
+2644,Iowa State University,IA,Big 12,Public,2008,85
+2646,University of Arizona,AZ,Big 12,Public,2008,96
+2647,University of New Hampshire,NH,AmEast,Public,2008,108
+2656,University of Denver,CO,The Summit,Private,2008,85
+2657,University of Missouri,MZ,SEC,Public,2008,91
+2658,University of Oklahoma,OK,SEC,Public,2008,108
+2659,University of South Carolina,SC,SEC,Public,2008,112
+2663,Miami University,OH,MAC,Public,2008,67
+2665,University of Dayton,OH,A-10,Private,2008,112
+2668,University of Vermont,VT,AmEast,Public,2008,96
+2669,Clark University,MA,,Private,2008,91
+2670,Clarkson University,NY,Liberty,Private,2008,124
+2671,Loyola University Chicago,IL,A-10,Private,2008,112
+2674,University of Alabama,AL,SEC,Public,2008,91
+2676,University of the Pacific,CA,WCC,Private,2008,96
+2678,Colorado State University,CO,MW,Public,2008,124
+2681,Michigan Technological University,MI,,Public,2008,124
+2684,University of Kansas,KS,Big 12,Public,2008,85
+2686,Princeton University,NJ,Ivy League,Private,2007,1
+2687,Massachusetts Institute of Technology,MA,NEWMAC,Private,2007,4
+2688,Harvard University,MA,Ivy League,Private,2007,2
+2689,Stanford University,CA,ACC,Private,2007,4
+2690,Yale University,CT,Ivy League,Private,2007,3
+2691,University of Pennsylvania,PA,Ivy League,Private,2007,7
+2692,California Institute of Technology,CA,SCIAC,Private,2007,4
+2693,Duke University,NC,ACC,Private,2007,8
+2694,Brown University,RI,Ivy League,Private,2007,15
+2695,Johns Hopkins University,MD,Centennial,Private,2007,16
+2696,Northwestern University,IL,Big 10,Private,2007,14
+2697,Columbia University,NY,Ivy League,Private,2007,9
+2698,Cornell University,NY,Ivy League,Private,2007,12
+2699,University of Chicago,IL,UAA,Private,2007,9
+2700,University of California-Berkeley,CA,ACC,Public,2007,21
+2701,University of California-Los Angeles,CA,Big 10,Public,2007,26
+2702,Rice University,TX,AAC,Private,2007,17
+2703,Dartmouth College,NH,Ivy League,Private,2007,9
+2704,Vanderbilt University,TN,SEC,Private,2007,18
+2705,University of Notre Dame,IN,ACC,Private,2007,20
+2706,University of Michigan-Ann Arbor,MI,Big 10,Public,2007,24
+2707,Georgetown University,DC,Big East,Private,2007,23
+2708,University of North Carolina-Chapel Hill,NC,ACC,Public,2007,27
+2709,Carnegie Mellon University,PA,UAA,Private,2007,21
+2710,Emory University,GA,UAA,Private,2007,18
+2711,University of Virginia,VA,ACC,Public,2007,24
+2712,Washington University in St. Louis,MO,UAA,Private,2007,12
+2713,University of California-Davis,CA,BWC,Public,2007,47
+2714,University of California-San Diego,CA,BWC,Public,2007,38
+2715,University of Florida,FL,SEC,Public,2007,47
+2716,University of Southern California,CA,Big 10,Private,2007,27
+2717,University of Texas-Austin,TX,SEC,Public,2007,47
+2718,Georgia Institute of Technology,GA,ACC,Public,2007,38
+2719,University of California-Irvine,CA,BWC,Public,2007,44
+2720,New York University,NY,UAA,Private,2007,34
+2721,University of California-Santa Barbara,CA,BWC,Public,2007,47
+2722,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2007,41
+2723,University of Wisconsin-Madison,WI,Big 10,Public,2007,34
+2724,Boston College,MA,ACC,Private,2007,34
+2725,Rutgers University-New Brunswick,NJ,Big 10,Public,2007,60
+2726,Tufts University,MA,NESCAC,Private,2007,27
+2727,University of Washington,WA,Big 10,Public,2007,42
+2732,Lehigh University,PA,Patriot,Private,2007,33
+2733,Texas A&M University-College Station,TX,SEC,Public,2007,60
+2735,University of Rochester,NY,UAA,Private,2007,34
+2737,Wake Forest University,NC,ACC,Private,2007,30
+2738,Case Western Reserve University,OH,UAA,Private,2007,38
+2739,College of William and Mary,VA,CAA,Public,2007,31
+2745,Brandeis University,MA,UAA,Private,2007,31
+2748,Pennsylvania State University-University Park,PA,Big 10,Public,2007,47
+2749,Rensselaer Polytechnic Institute,NY,Liberty,Private,2007,42
+2752,George Washington University,DC,A-10,Private,2007,52
+2753,Syracuse University,NY,ACC,Private,2007,52
+2760,Tulane University,LA,AAC,Private,2007,44
+2762,Pepperdine University,CA,WCC,Private,2007,54
+2770,Worcester Polytechnic Institute,MA,NEWMAC,Private,2007,64
+2799,Yeshiva University,NY,,Private,2007,44
+2844,Princeton University,NJ,Ivy League,Private,2006,1
+2845,Massachusetts Institute of Technology,MA,NEWMAC,Private,2006,7
+2846,Harvard University,MA,Ivy League,Private,2006,1
+2847,Stanford University,CA,ACC,Private,2006,5
+2848,Yale University,CT,Ivy League,Private,2006,3
+2849,University of Pennsylvania,PA,Ivy League,Private,2006,4
+2850,California Institute of Technology,CA,SCIAC,Private,2006,7
+2851,Duke University,NC,ACC,Private,2006,5
+2852,Brown University,RI,Ivy League,Private,2006,15
+2853,Johns Hopkins University,MD,Centennial,Private,2006,13
+2854,Northwestern University,IL,Big 10,Private,2006,12
+2855,Columbia University,NY,Ivy League,Private,2006,9
+2856,Cornell University,NY,Ivy League,Private,2006,13
+2857,University of Chicago,IL,UAA,Private,2006,15
+2858,University of California-Berkeley,CA,ACC,Public,2006,20
+2859,University of California-Los Angeles,CA,Big 10,Public,2006,25
+2860,Rice University,TX,AAC,Private,2006,17
+2861,Dartmouth College,NH,Ivy League,Private,2006,9
+2862,Vanderbilt University,TN,SEC,Private,2006,18
+2863,University of Notre Dame,IN,ACC,Private,2006,18
+2864,University of Michigan-Ann Arbor,MI,Big 10,Public,2006,25
+2865,Georgetown University,DC,Big East,Private,2006,23
+2866,University of North Carolina-Chapel Hill,NC,ACC,Public,2006,27
+2867,Carnegie Mellon University,PA,UAA,Private,2006,22
+2868,Emory University,GA,UAA,Private,2006,20
+2869,University of Virginia,VA,ACC,Public,2006,23
+2870,Washington University in St. Louis,MO,UAA,Private,2006,11
+2871,University of California-Davis,CA,BWC,Public,2006,48
+2872,University of California-San Diego,CA,BWC,Public,2006,32
+2873,University of Florida,FL,SEC,Public,2006,50
+2874,University of Southern California,CA,Big 10,Private,2006,30
+2875,University of Texas-Austin,TX,SEC,Public,2006,52
+2876,Georgia Institute of Technology,GA,ACC,Public,2006,37
+2877,University of California-Irvine,CA,BWC,Public,2006,40
+2878,New York University,NY,UAA,Private,2006,37
+2879,University of California-Santa Barbara,CA,BWC,Public,2006,45
+2880,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2006,42
+2881,University of Wisconsin-Madison,WI,Big 10,Public,2006,34
+2882,Boston College,MA,ACC,Private,2006,40
+2883,Rutgers University-New Brunswick,NJ,Big 10,Public,2006,60
+2884,Tufts University,MA,NESCAC,Private,2006,27
+2885,University of Washington,WA,Big 10,Public,2006,45
+2890,Lehigh University,PA,Patriot,Private,2006,32
+2891,Texas A&M University-College Station,TX,SEC,Public,2006,60
+2893,University of Rochester,NY,UAA,Private,2006,34
+2895,Wake Forest University,NC,ACC,Private,2006,27
+2896,Case Western Reserve University,OH,UAA,Private,2006,37
+2897,College of William and Mary,VA,CAA,Public,2006,31
+2903,Brandeis University,MA,UAA,Private,2006,34
+2906,Pennsylvania State University-University Park,PA,Big 10,Public,2006,48
+2907,Rensselaer Polytechnic Institute,NY,Liberty,Private,2006,43
+2910,George Washington University,DC,A-10,Private,2006,53
+2911,Syracuse University,NY,ACC,Private,2006,50
+2918,Tulane University,LA,AAC,Private,2006,43
+2920,Pepperdine University,CA,WCC,Private,2006,55
+2928,Worcester Polytechnic Institute,MA,NEWMAC,Private,2006,53
+2957,Yeshiva University,NY,,Private,2006,45
+3002,Princeton University,NJ,Ivy League,Private,2005,1
+3003,Massachusetts Institute of Technology,MA,NEWMAC,Private,2005,5
+3004,Harvard University,MA,Ivy League,Private,2005,1
+3005,Stanford University,CA,ACC,Private,2005,5
+3006,Yale University,CT,Ivy League,Private,2005,3
+3007,University of Pennsylvania,PA,Ivy League,Private,2005,4
+3008,California Institute of Technology,CA,SCIAC,Private,2005,8
+3009,Duke University,NC,ACC,Private,2005,5
+3010,Brown University,RI,Ivy League,Private,2005,13
+3011,Johns Hopkins University,MD,Centennial,Private,2005,14
+3012,Northwestern University,IL,Big 10,Private,2005,11
+3013,Columbia University,NY,Ivy League,Private,2005,9
+3014,Cornell University,NY,Ivy League,Private,2005,14
+3015,University of Chicago,IL,UAA,Private,2005,14
+3016,University of California-Berkeley,CA,ACC,Public,2005,21
+3017,University of California-Los Angeles,CA,Big 10,Public,2005,25
+3018,Rice University,TX,AAC,Private,2005,17
+3019,Dartmouth College,NH,Ivy League,Private,2005,9
+3020,Vanderbilt University,TN,SEC,Private,2005,18
+3021,University of Notre Dame,IN,ACC,Private,2005,18
+3022,University of Michigan-Ann Arbor,MI,Big 10,Public,2005,22
+3023,Georgetown University,DC,Big East,Private,2005,25
+3024,University of North Carolina-Chapel Hill,NC,ACC,Public,2005,29
+3025,Carnegie Mellon University,PA,UAA,Private,2005,22
+3026,Emory University,GA,UAA,Private,2005,20
+3027,University of Virginia,VA,ACC,Public,2005,22
+3028,Washington University in St. Louis,MO,UAA,Private,2005,11
+3029,University of California-Davis,CA,BWC,Public,2005,42
+3030,University of California-San Diego,CA,BWC,Public,2005,35
+3031,University of Florida,FL,SEC,Public,2005,50
+3032,University of Southern California,CA,Big 10,Private,2005,30
+3033,University of Texas-Austin,TX,SEC,Public,2005,46
+3034,Georgia Institute of Technology,GA,ACC,Public,2005,41
+3035,University of California-Irvine,CA,BWC,Public,2005,43
+3036,New York University,NY,UAA,Private,2005,32
+3037,University of California-Santa Barbara,CA,BWC,Public,2005,45
+3038,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2005,37
+3039,University of Wisconsin-Madison,WI,Big 10,Public,2005,32
+3040,Boston College,MA,ACC,Private,2005,37
+3041,Rutgers University-New Brunswick,NJ,Big 10,Public,2005,58
+3042,Tufts University,MA,NESCAC,Private,2005,28
+3043,University of Washington,WA,Big 10,Public,2005,46
+3048,Lehigh University,PA,Patriot,Private,2005,37
+3049,Texas A&M University-College Station,TX,SEC,Public,2005,62
+3051,University of Rochester,NY,UAA,Private,2005,37
+3053,Wake Forest University,NC,ACC,Private,2005,27
+3054,Case Western Reserve University,OH,UAA,Private,2005,35
+3055,College of William and Mary,VA,CAA,Public,2005,31
+3061,Brandeis University,MA,UAA,Private,2005,32
+3064,Pennsylvania State University-University Park,PA,Big 10,Public,2005,50
+3065,Rensselaer Polytechnic Institute,NY,Liberty,Private,2005,46
+3068,George Washington University,DC,A-10,Private,2005,52
+3069,Syracuse University,NY,ACC,Private,2005,52
+3076,Tulane University,LA,AAC,Private,2005,43
+3078,Pepperdine University,CA,WCC,Private,2005,52
+3086,Worcester Polytechnic Institute,MA,NEWMAC,Private,2005,55
+3115,Yeshiva University,NY,,Private,2005,46
+3160,Princeton University,NJ,Ivy League,Private,2004,1
+3161,Massachusetts Institute of Technology,MA,NEWMAC,Private,2004,4
+3162,Harvard University,MA,Ivy League,Private,2004,1
+3163,Stanford University,CA,ACC,Private,2004,5
+3164,Yale University,CT,Ivy League,Private,2004,3
+3165,University of Pennsylvania,PA,Ivy League,Private,2004,5
+3166,California Institute of Technology,CA,SCIAC,Private,2004,5
+3167,Duke University,NC,ACC,Private,2004,5
+3168,Brown University,RI,Ivy League,Private,2004,17
+3169,Johns Hopkins University,MD,Centennial,Private,2004,14
+3170,Northwestern University,IL,Big 10,Private,2004,11
+3171,Columbia University,NY,Ivy League,Private,2004,11
+3172,Cornell University,NY,Ivy League,Private,2004,14
+3173,University of Chicago,IL,UAA,Private,2004,13
+3174,University of California-Berkeley,CA,ACC,Public,2004,21
+3175,University of California-Los Angeles,CA,Big 10,Public,2004,26
+3176,Rice University,TX,AAC,Private,2004,16
+3177,Dartmouth College,NH,Ivy League,Private,2004,9
+3178,Vanderbilt University,TN,SEC,Private,2004,19
+3179,University of Notre Dame,IN,ACC,Private,2004,19
+3180,University of Michigan-Ann Arbor,MI,Big 10,Public,2004,25
+3181,Georgetown University,DC,Big East,Private,2004,23
+3182,University of North Carolina-Chapel Hill,NC,ACC,Public,2004,29
+3183,Carnegie Mellon University,PA,UAA,Private,2004,23
+3184,Emory University,GA,UAA,Private,2004,18
+3185,University of Virginia,VA,ACC,Public,2004,21
+3186,Washington University in St. Louis,MO,UAA,Private,2004,9
+3187,University of California-Davis,CA,BWC,Public,2004,43
+3188,University of California-San Diego,CA,BWC,Public,2004,32
+3189,University of Florida,FL,SEC,Public,2004,48
+3190,University of Southern California,CA,Big 10,Private,2004,30
+3191,University of Texas-Austin,TX,SEC,Public,2004,53
+3192,Georgia Institute of Technology,GA,ACC,Public,2004,37
+3193,University of California-Irvine,CA,BWC,Public,2004,45
+3194,New York University,NY,UAA,Private,2004,35
+3195,University of California-Santa Barbara,CA,BWC,Public,2004,45
+3196,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2004,40
+3197,University of Wisconsin-Madison,WI,Big 10,Public,2004,32
+3198,Boston College,MA,ACC,Private,2004,40
+3199,Rutgers University-New Brunswick,NJ,Big 10,Public,2004,60
+3200,Tufts University,MA,NESCAC,Private,2004,27
+3201,University of Washington,WA,Big 10,Public,2004,45
+3206,Lehigh University,PA,Patriot,Private,2004,37
+3207,Texas A&M University-College Station,TX,SEC,Public,2004,67
+3209,University of Rochester,NY,UAA,Private,2004,35
+3211,Wake Forest University,NC,ACC,Private,2004,28
+3212,Case Western Reserve University,OH,UAA,Private,2004,37
+3213,College of William and Mary,VA,CAA,Public,2004,31
+3219,Brandeis University,MA,UAA,Private,2004,32
+3222,Pennsylvania State University-University Park,PA,Big 10,Public,2004,48
+3223,Rensselaer Polytechnic Institute,NY,Liberty,Private,2004,48
+3226,George Washington University,DC,A-10,Private,2004,51
+3227,Syracuse University,NY,ACC,Private,2004,55
+3234,Tulane University,LA,AAC,Private,2004,44
+3236,Pepperdine University,CA,WCC,Private,2004,51
+3244,Worcester Polytechnic Institute,MA,NEWMAC,Private,2004,55
+3273,Yeshiva University,NY,,Private,2004,40
+3318,Princeton University,NJ,Ivy League,Private,2003,1
+3319,Massachusetts Institute of Technology,MA,NEWMAC,Private,2003,4
+3320,Harvard University,MA,Ivy League,Private,2003,2
+3321,Stanford University,CA,ACC,Private,2003,4
+3322,Yale University,CT,Ivy League,Private,2003,2
+3323,University of Pennsylvania,PA,Ivy League,Private,2003,4
+3324,California Institute of Technology,CA,SCIAC,Private,2003,4
+3325,Duke University,NC,ACC,Private,2003,4
+3326,Brown University,RI,Ivy League,Private,2003,17
+3327,Johns Hopkins University,MD,Centennial,Private,2003,15
+3328,Northwestern University,IL,Big 10,Private,2003,10
+3329,Columbia University,NY,Ivy League,Private,2003,10
+3330,Cornell University,NY,Ivy League,Private,2003,14
+3331,University of Chicago,IL,UAA,Private,2003,12
+3332,University of California-Berkeley,CA,ACC,Public,2003,20
+3333,University of California-Los Angeles,CA,Big 10,Public,2003,25
+3334,Rice University,TX,AAC,Private,2003,15
+3335,Dartmouth College,NH,Ivy League,Private,2003,9
+3336,Vanderbilt University,TN,SEC,Private,2003,21
+3337,University of Notre Dame,IN,ACC,Private,2003,18
+3338,University of Michigan-Ann Arbor,MI,Big 10,Public,2003,25
+3339,Georgetown University,DC,Big East,Private,2003,24
+3340,University of North Carolina-Chapel Hill,NC,ACC,Public,2003,28
+3341,Carnegie Mellon University,PA,UAA,Private,2003,21
+3342,Emory University,GA,UAA,Private,2003,18
+3343,University of Virginia,VA,ACC,Public,2003,23
+3344,Washington University in St. Louis,MO,UAA,Private,2003,12
+3345,University of California-Davis,CA,BWC,Public,2003,43
+3346,University of California-San Diego,CA,BWC,Public,2003,31
+3348,University of Southern California,CA,Big 10,Private,2003,31
+3349,University of Texas-Austin,TX,SEC,Public,2003,47
+3350,Georgia Institute of Technology,GA,ACC,Public,2003,38
+3351,University of California-Irvine,CA,BWC,Public,2003,45
+3352,New York University,NY,UAA,Private,2003,35
+3353,University of California-Santa Barbara,CA,BWC,Public,2003,47
+3354,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2003,38
+3355,University of Wisconsin-Madison,WI,Big 10,Public,2003,31
+3356,Boston College,MA,ACC,Private,2003,40
+3358,Tufts University,MA,NESCAC,Private,2003,28
+3359,University of Washington,WA,Big 10,Public,2003,47
+3364,Lehigh University,PA,Patriot,Private,2003,40
+3367,University of Rochester,NY,UAA,Private,2003,36
+3369,Wake Forest University,NC,ACC,Private,2003,25
+3370,Case Western Reserve University,OH,UAA,Private,2003,37
+3371,College of William and Mary,VA,CAA,Public,2003,30
+3377,Brandeis University,MA,UAA,Private,2003,31
+3380,Pennsylvania State University-University Park,PA,Big 10,Public,2003,45
+3381,Rensselaer Polytechnic Institute,NY,Liberty,Private,2003,47
+3392,Tulane University,LA,AAC,Private,2003,43
+3394,Pepperdine University,CA,WCC,Private,2003,47
+3431,Yeshiva University,NY,,Private,2003,40
+3476,Princeton University,NJ,Ivy League,Private,2002,1
+3477,Massachusetts Institute of Technology,MA,NEWMAC,Private,2002,5
+3478,Harvard University,MA,Ivy League,Private,2002,2
+3479,Stanford University,CA,ACC,Private,2002,5
+3480,Yale University,CT,Ivy League,Private,2002,2
+3481,University of Pennsylvania,PA,Ivy League,Private,2002,5
+3482,California Institute of Technology,CA,SCIAC,Private,2002,4
+3483,Duke University,NC,ACC,Private,2002,8
+3484,Brown University,RI,Ivy League,Private,2002,16
+3485,Johns Hopkins University,MD,Centennial,Private,2002,16
+3486,Northwestern University,IL,Big 10,Private,2002,12
+3487,Columbia University,NY,Ivy League,Private,2002,9
+3488,Cornell University,NY,Ivy League,Private,2002,14
+3489,University of Chicago,IL,UAA,Private,2002,9
+3490,University of California-Berkeley,CA,ACC,Public,2002,20
+3491,University of California-Los Angeles,CA,Big 10,Public,2002,26
+3492,Rice University,TX,AAC,Private,2002,12
+3493,Dartmouth College,NH,Ivy League,Private,2002,9
+3494,Vanderbilt University,TN,SEC,Private,2002,21
+3495,University of Notre Dame,IN,ACC,Private,2002,19
+3496,University of Michigan-Ann Arbor,MI,Big 10,Public,2002,25
+3497,Georgetown University,DC,Big East,Private,2002,22
+3498,University of North Carolina-Chapel Hill,NC,ACC,Public,2002,28
+3499,Carnegie Mellon University,PA,UAA,Private,2002,22
+3500,Emory University,GA,UAA,Private,2002,18
+3501,University of Virginia,VA,ACC,Public,2002,24
+3502,Washington University in St. Louis,MO,UAA,Private,2002,14
+3503,University of California-Davis,CA,BWC,Public,2002,41
+3504,University of California-San Diego,CA,BWC,Public,2002,31
+3506,University of Southern California,CA,Big 10,Private,2002,34
+3507,University of Texas-Austin,TX,SEC,Public,2002,48
+3508,Georgia Institute of Technology,GA,ACC,Public,2002,41
+3509,University of California-Irvine,CA,BWC,Public,2002,41
+3510,New York University,NY,UAA,Private,2002,32
+3511,University of California-Santa Barbara,CA,BWC,Public,2002,48
+3512,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2002,36
+3513,University of Wisconsin-Madison,WI,Big 10,Public,2002,32
+3514,Boston College,MA,ACC,Private,2002,38
+3516,Tufts University,MA,NESCAC,Private,2002,28
+3517,University of Washington,WA,Big 10,Public,2002,45
+3522,Lehigh University,PA,Patriot,Private,2002,38
+3523,Texas A&M University-College Station,TX,SEC,Public,2002,48
+3525,University of Rochester,NY,UAA,Private,2002,36
+3527,Wake Forest University,NC,ACC,Private,2002,26
+3528,Case Western Reserve University,OH,UAA,Private,2002,38
+3529,College of William and Mary,VA,CAA,Public,2002,30
+3535,Brandeis University,MA,UAA,Private,2002,34
+3538,Pennsylvania State University-University Park,PA,Big 10,Public,2002,46
+3539,Rensselaer Polytechnic Institute,NY,Liberty,Private,2002,48
+3550,Tulane University,LA,AAC,Private,2002,46
+3552,Pepperdine University,CA,WCC,Private,2002,48
+3589,Yeshiva University,NY,,Private,2002,41
+3634,Princeton University,NJ,Ivy League,Private,2001,1
+3635,Massachusetts Institute of Technology,MA,NEWMAC,Private,2001,5
+3636,Harvard University,MA,Ivy League,Private,2001,2
+3637,Stanford University,CA,ACC,Private,2001,6
+3638,Yale University,CT,Ivy League,Private,2001,2
+3639,University of Pennsylvania,PA,Ivy League,Private,2001,6
+3640,California Institute of Technology,CA,SCIAC,Private,2001,4
+3641,Duke University,NC,ACC,Private,2001,8
+3642,Brown University,RI,Ivy League,Private,2001,15
+3643,Johns Hopkins University,MD,Centennial,Private,2001,15
+3644,Northwestern University,IL,Big 10,Private,2001,13
+3645,Columbia University,NY,Ivy League,Private,2001,10
+3646,Cornell University,NY,Ivy League,Private,2001,10
+3647,University of Chicago,IL,UAA,Private,2001,10
+3648,University of California-Berkeley,CA,ACC,Public,2001,20
+3649,University of California-Los Angeles,CA,Big 10,Public,2001,25
+3650,Rice University,TX,AAC,Private,2001,13
+3651,Dartmouth College,NH,Ivy League,Private,2001,9
+3652,Vanderbilt University,TN,SEC,Private,2001,22
+3653,University of Notre Dame,IN,ACC,Private,2001,19
+3654,University of Michigan-Ann Arbor,MI,Big 10,Public,2001,25
+3655,Georgetown University,DC,Big East,Private,2001,23
+3656,University of North Carolina-Chapel Hill,NC,ACC,Public,2001,25
+3657,Carnegie Mellon University,PA,UAA,Private,2001,23
+3658,Emory University,GA,UAA,Private,2001,18
+3659,University of Virginia,VA,ACC,Public,2001,20
+3660,Washington University in St. Louis,MO,UAA,Private,2001,15
+3661,University of California-Davis,CA,BWC,Public,2001,41
+3662,University of California-San Diego,CA,BWC,Public,2001,31
+3664,University of Southern California,CA,Big 10,Private,2001,35
+3665,University of Texas-Austin,TX,SEC,Public,2001,49
+3666,Georgia Institute of Technology,GA,ACC,Public,2001,35
+3667,University of California-Irvine,CA,BWC,Public,2001,41
+3668,New York University,NY,UAA,Private,2001,33
+3669,University of California-Santa Barbara,CA,BWC,Public,2001,45
+3670,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2001,41
+3671,University of Wisconsin-Madison,WI,Big 10,Public,2001,35
+3672,Boston College,MA,ACC,Private,2001,38
+3674,Tufts University,MA,NESCAC,Private,2001,29
+3675,University of Washington,WA,Big 10,Public,2001,45
+3680,Lehigh University,PA,Patriot,Private,2001,38
+3683,University of Rochester,NY,UAA,Private,2001,33
+3685,Wake Forest University,NC,ACC,Private,2001,28
+3686,Case Western Reserve University,OH,UAA,Private,2001,38
+3687,College of William and Mary,VA,CAA,Public,2001,30
+3693,Brandeis University,MA,UAA,Private,2001,31
+3696,Pennsylvania State University-University Park,PA,Big 10,Public,2001,44
+3697,Rensselaer Polytechnic Institute,NY,Liberty,Private,2001,49
+3708,Tulane University,LA,AAC,Private,2001,45
+3710,Pepperdine University,CA,WCC,Private,2001,49
+3747,Yeshiva University,NY,,Private,2001,45
+3792,Princeton University,NJ,Ivy League,Private,2000,4
+3793,Massachusetts Institute of Technology,MA,NEWMAC,Private,2000,3
+3794,Harvard University,MA,Ivy League,Private,2000,2
+3795,Stanford University,CA,ACC,Private,2000,6
+3796,Yale University,CT,Ivy League,Private,2000,4
+3797,University of Pennsylvania,PA,Ivy League,Private,2000,7
+3798,California Institute of Technology,CA,SCIAC,Private,2000,1
+3799,Duke University,NC,ACC,Private,2000,7
+3800,Brown University,RI,Ivy League,Private,2000,14
+3801,Johns Hopkins University,MD,Centennial,Private,2000,7
+3802,Northwestern University,IL,Big 10,Private,2000,14
+3803,Columbia University,NY,Ivy League,Private,2000,10
+3804,Cornell University,NY,Ivy League,Private,2000,11
+3805,University of Chicago,IL,UAA,Private,2000,13
+3806,University of California-Berkeley,CA,ACC,Public,2000,20
+3807,University of California-Los Angeles,CA,Big 10,Public,2000,25
+3808,Rice University,TX,AAC,Private,2000,14
+3809,Dartmouth College,NH,Ivy League,Private,2000,11
+3810,Vanderbilt University,TN,SEC,Private,2000,20
+3811,University of Notre Dame,IN,ACC,Private,2000,19
+3812,University of Michigan-Ann Arbor,MI,Big 10,Public,2000,25
+3813,Georgetown University,DC,Big East,Private,2000,23
+3814,University of North Carolina-Chapel Hill,NC,ACC,Public,2000,27
+3815,Carnegie Mellon University,PA,UAA,Private,2000,23
+3816,Emory University,GA,UAA,Private,2000,18
+3817,University of Virginia,VA,ACC,Public,2000,22
+3818,Washington University in St. Louis,MO,UAA,Private,2000,17
+3819,University of California-Davis,CA,BWC,Public,2000,42
+3820,University of California-San Diego,CA,BWC,Public,2000,32
+3821,University of Florida,FL,SEC,Public,2000,49
+3822,University of Southern California,CA,Big 10,Private,2000,42
+3823,University of Texas-Austin,TX,SEC,Public,2000,44
+3824,Georgia Institute of Technology,GA,ACC,Public,2000,40
+3825,University of California-Irvine,CA,BWC,Public,2000,49
+3826,New York University,NY,UAA,Private,2000,34
+3827,University of California-Santa Barbara,CA,BWC,Public,2000,44
+3828,University of Illinois-Urbana-Champaign,IL,Big 10,Public,2000,34
+3829,University of Wisconsin-Madison,WI,Big 10,Public,2000,34
+3830,Boston College,MA,ACC,Private,2000,39
+3832,Tufts University,MA,NESCAC,Private,2000,29
+3833,University of Washington,WA,Big 10,Public,2000,44
+3838,Lehigh University,PA,Patriot,Private,2000,34
+3841,University of Rochester,NY,UAA,Private,2000,32
+3843,Wake Forest University,NC,ACC,Private,2000,28
+3844,Case Western Reserve University,OH,UAA,Private,2000,34
+3845,College of William and Mary,VA,CAA,Public,2000,29
+3851,Brandeis University,MA,UAA,Private,2000,31
+3854,Pennsylvania State University-University Park,PA,Big 10,Public,2000,40
+3866,Tulane University,LA,AAC,Private,2000,44
+3905,Yeshiva University,NY,,Private,2000,44
+3950,Princeton University,NJ,Ivy League,Private,1999,1
+3951,Massachusetts Institute of Technology,MA,NEWMAC,Private,1999,4
+3952,Harvard University,MA,Ivy League,Private,1999,1
+3953,Stanford University,CA,ACC,Private,1999,4
+3954,Yale University,CT,Ivy League,Private,1999,1
+3955,University of Pennsylvania,PA,Ivy League,Private,1999,6
+3956,California Institute of Technology,CA,SCIAC,Private,1999,9
+3957,Duke University,NC,ACC,Private,1999,6
+3958,Brown University,RI,Ivy League,Private,1999,10
+3959,Johns Hopkins University,MD,Centennial,Private,1999,14
+3960,Northwestern University,IL,Big 10,Private,1999,10
+3961,Columbia University,NY,Ivy League,Private,1999,10
+3962,Cornell University,NY,Ivy League,Private,1999,6
+3963,University of Chicago,IL,UAA,Private,1999,14
+3964,University of California-Berkeley,CA,ACC,Public,1999,22
+3965,University of California-Los Angeles,CA,Big 10,Public,1999,25
+3966,Rice University,TX,AAC,Private,1999,18
+3967,Dartmouth College,NH,Ivy League,Private,1999,10
+3968,Vanderbilt University,TN,SEC,Private,1999,20
+3969,University of Notre Dame,IN,ACC,Private,1999,18
+3970,University of Michigan-Ann Arbor,MI,Big 10,Public,1999,25
+3971,Georgetown University,DC,Big East,Private,1999,20
+3972,University of North Carolina-Chapel Hill,NC,ACC,Public,1999,24
+3973,Carnegie Mellon University,PA,UAA,Private,1999,25
+3974,Emory University,GA,UAA,Private,1999,16
+3975,University of Virginia,VA,ACC,Public,1999,22
+3976,Washington University in St. Louis,MO,UAA,Private,1999,16
+3977,University of California-Davis,CA,BWC,Public,1999,44
+3978,University of California-San Diego,CA,BWC,Public,1999,32
+3980,University of Southern California,CA,Big 10,Private,1999,41
+3982,Georgia Institute of Technology,GA,ACC,Public,1999,46
+3983,University of California-Irvine,CA,BWC,Public,1999,36
+3984,New York University,NY,UAA,Private,1999,35
+3985,University of California-Santa Barbara,CA,BWC,Public,1999,47
+3986,University of Illinois-Urbana-Champaign,IL,Big 10,Public,1999,42
+3987,University of Wisconsin-Madison,WI,Big 10,Public,1999,36
+3988,Boston College,MA,ACC,Private,1999,36
+3990,Tufts University,MA,NESCAC,Private,1999,25
+3996,Lehigh University,PA,Patriot,Private,1999,36
+3999,University of Rochester,NY,UAA,Private,1999,29
+4001,Wake Forest University,NC,ACC,Private,1999,29
+4002,Case Western Reserve University,OH,UAA,Private,1999,34
+4003,College of William and Mary,VA,CAA,Public,1999,33
+4009,Brandeis University,MA,UAA,Private,1999,31
+4012,Pennsylvania State University-University Park,PA,Big 10,Public,1999,44
+4013,Rensselaer Polytechnic Institute,NY,Liberty,Private,1999,49
+4016,George Washington University,DC,A-10,Private,1999,50
+4017,Syracuse University,NY,ACC,Private,1999,47
+4024,Tulane University,LA,AAC,Private,1999,36
+4063,Yeshiva University,NY,,Private,1999,42
+4108,Princeton University,NJ,Ivy League,Private,1998,1
+4109,Massachusetts Institute of Technology,MA,NEWMAC,Private,1998,6
+4110,Harvard University,MA,Ivy League,Private,1998,1
+4111,Stanford University,CA,ACC,Private,1998,5
+4112,Yale University,CT,Ivy League,Private,1998,3
+4113,University of Pennsylvania,PA,Ivy League,Private,1998,7
+4114,California Institute of Technology,CA,SCIAC,Private,1998,9
+4115,Duke University,NC,ACC,Private,1998,3
+4116,Brown University,RI,Ivy League,Private,1998,9
+4117,Johns Hopkins University,MD,Centennial,Private,1998,14
+4118,Northwestern University,IL,Big 10,Private,1998,9
+4119,Columbia University,NY,Ivy League,Private,1998,9
+4120,Cornell University,NY,Ivy League,Private,1998,14
+4121,University of Chicago,IL,UAA,Private,1998,14
+4122,University of California-Berkeley,CA,ACC,Public,1998,23
+4123,University of California-Los Angeles,CA,Big 10,Public,1998,28
+4124,Rice University,TX,AAC,Private,1998,17
+4125,Dartmouth College,NH,Ivy League,Private,1998,7
+4126,Vanderbilt University,TN,SEC,Private,1998,19
+4127,University of Notre Dame,IN,ACC,Private,1998,19
+4128,University of Michigan-Ann Arbor,MI,Big 10,Public,1998,23
+4129,Georgetown University,DC,Big East,Private,1998,21
+4130,University of North Carolina-Chapel Hill,NC,ACC,Public,1998,27
+4131,Carnegie Mellon University,PA,UAA,Private,1998,23
+4132,Emory University,GA,UAA,Private,1998,9
+4133,University of Virginia,VA,ACC,Public,1998,21
+4134,Washington University in St. Louis,MO,UAA,Private,1998,17
+4135,University of California-Davis,CA,BWC,Public,1998,41
+4136,University of California-San Diego,CA,BWC,Public,1998,33
+4138,University of Southern California,CA,Big 10,Private,1998,41
+4140,Georgia Institute of Technology,GA,ACC,Public,1998,41
+4141,University of California-Irvine,CA,BWC,Public,1998,41
+4142,New York University,NY,UAA,Private,1998,34
+4143,University of California-Santa Barbara,CA,BWC,Public,1998,47
+4144,University of Illinois-Urbana-Champaign,IL,Big 10,Public,1998,45
+4145,University of Wisconsin-Madison,WI,Big 10,Public,1998,38
+4146,Boston College,MA,ACC,Private,1998,38
+4148,Tufts University,MA,NESCAC,Private,1998,23
+4154,Lehigh University,PA,Patriot,Private,1998,34
+4157,University of Rochester,NY,UAA,Private,1998,31
+4159,Wake Forest University,NC,ACC,Private,1998,28
+4160,Case Western Reserve University,OH,UAA,Private,1998,37
+4161,College of William and Mary,VA,CAA,Public,1998,32
+4167,Brandeis University,MA,UAA,Private,1998,28
+4170,Pennsylvania State University-University Park,PA,Big 10,Public,1998,45
+4171,Rensselaer Polytechnic Institute,NY,Liberty,Private,1998,48
+4175,Syracuse University,NY,ACC,Private,1998,40
+4182,Tulane University,LA,AAC,Private,1998,34
+4192,Worcester Polytechnic Institute,MA,NEWMAC,Private,1998,48
+4221,Yeshiva University,NY,,Private,1998,48
+4266,Princeton University,NJ,Ivy League,Private,1997,2
+4267,Massachusetts Institute of Technology,MA,NEWMAC,Private,1997,5
+4268,Harvard University,MA,Ivy League,Private,1997,3
+4269,Stanford University,CA,ACC,Private,1997,6
+4270,Yale University,CT,Ivy League,Private,1997,1
+4271,University of Pennsylvania,PA,Ivy League,Private,1997,13
+4272,California Institute of Technology,CA,SCIAC,Private,1997,9
+4273,Duke University,NC,ACC,Private,1997,4
+4274,Brown University,RI,Ivy League,Private,1997,8
+4275,Johns Hopkins University,MD,Centennial,Private,1997,15
+4276,Northwestern University,IL,Big 10,Private,1997,9
+4277,Columbia University,NY,Ivy League,Private,1997,11
+4278,Cornell University,NY,Ivy League,Private,1997,14
+4279,University of Chicago,IL,UAA,Private,1997,12
+4280,University of California-Berkeley,CA,ACC,Public,1997,27
+4281,University of California-Los Angeles,CA,Big 10,Public,1997,31
+4282,Rice University,TX,AAC,Private,1997,16
+4283,Dartmouth College,NH,Ivy League,Private,1997,7
+4284,Vanderbilt University,TN,SEC,Private,1997,20
+4285,University of Notre Dame,IN,ACC,Private,1997,17
+4286,University of Michigan-Ann Arbor,MI,Big 10,Public,1997,24
+4287,Georgetown University,DC,Big East,Private,1997,23
+4288,University of North Carolina-Chapel Hill,NC,ACC,Public,1997,25
+4289,Carnegie Mellon University,PA,UAA,Private,1997,28
+4290,Emory University,GA,UAA,Private,1997,19
+4291,University of Virginia,VA,ACC,Public,1997,21
+4292,Washington University in St. Louis,MO,UAA,Private,1997,17
+4293,University of California-Davis,CA,BWC,Public,1997,40
+4294,University of California-San Diego,CA,BWC,Public,1997,34
+4296,University of Southern California,CA,Big 10,Private,1997,43
+4298,Georgia Institute of Technology,GA,ACC,Public,1997,48
+4299,University of California-Irvine,CA,BWC,Public,1997,37
+4300,New York University,NY,UAA,Private,1997,35
+4301,University of California-Santa Barbara,CA,BWC,Public,1997,46
+4302,University of Illinois-Urbana-Champaign,IL,Big 10,Public,1997,50
+4303,University of Wisconsin-Madison,WI,Big 10,Public,1997,41
+4304,Boston College,MA,ACC,Private,1997,38
+4306,Tufts University,MA,NESCAC,Private,1997,22
+4307,University of Washington,WA,Big 10,Public,1997,42
+4312,Lehigh University,PA,Patriot,Private,1997,32
+4313,Texas A&M University-College Station,TX,SEC,Public,1997,48
+4315,University of Rochester,NY,UAA,Private,1997,30
+4317,Wake Forest University,NC,ACC,Private,1997,25
+4318,Case Western Reserve University,OH,UAA,Private,1997,38
+4319,College of William and Mary,VA,CAA,Public,1997,33
+4325,Brandeis University,MA,UAA,Private,1997,29
+4332,George Washington University,DC,A-10,Private,1997,46
+4333,Syracuse University,NY,ACC,Private,1997,44
+4340,Tulane University,LA,AAC,Private,1997,36
+4379,Yeshiva University,NY,,Private,1997,45
+4424,Princeton University,NJ,Ivy League,Private,1996,2
+4425,Massachusetts Institute of Technology,MA,NEWMAC,Private,1996,5
+4426,Harvard University,MA,Ivy League,Private,1996,1
+4427,Stanford University,CA,ACC,Private,1996,4
+4428,Yale University,CT,Ivy League,Private,1996,2
+4429,University of Pennsylvania,PA,Ivy League,Private,1996,11
+4430,California Institute of Technology,CA,SCIAC,Private,1996,7
+4431,Duke University,NC,ACC,Private,1996,6
+4432,Brown University,RI,Ivy League,Private,1996,9
+4433,Johns Hopkins University,MD,Centennial,Private,1996,10
+4434,Northwestern University,IL,Big 10,Private,1996,13
+4435,Columbia University,NY,Ivy League,Private,1996,15
+4436,Cornell University,NY,Ivy League,Private,1996,13
+4437,University of Chicago,IL,UAA,Private,1996,11
+4438,University of California-Berkeley,CA,ACC,Public,1996,26
+4439,University of California-Los Angeles,CA,Big 10,Public,1996,28
+4440,Rice University,TX,AAC,Private,1996,16
+4441,Dartmouth College,NH,Ivy League,Private,1996,7
+4442,Vanderbilt University,TN,SEC,Private,1996,22
+4443,University of Notre Dame,IN,ACC,Private,1996,18
+4444,University of Michigan-Ann Arbor,MI,Big 10,Public,1996,24
+4445,Georgetown University,DC,Big East,Private,1996,21
+4446,University of North Carolina-Chapel Hill,NC,ACC,Public,1996,27
+4447,Carnegie Mellon University,PA,UAA,Private,1996,23
+4448,Emory University,GA,UAA,Private,1996,17
+4449,University of Virginia,VA,ACC,Public,1996,19
+4450,Washington University in St. Louis,MO,UAA,Private,1996,20
+4451,University of California-Davis,CA,BWC,Public,1996,40
+4452,University of California-San Diego,CA,BWC,Public,1996,43
+4453,University of Florida,FL,SEC,Public,1996,47
+4454,University of Southern California,CA,Big 10,Private,1996,44
+4456,Georgia Institute of Technology,GA,ACC,Public,1996,42
+4457,University of California-Irvine,CA,BWC,Public,1996,48
+4458,New York University,NY,UAA,Private,1996,36
+4460,University of Illinois-Urbana-Champaign,IL,Big 10,Public,1996,45
+4461,University of Wisconsin-Madison,WI,Big 10,Public,1996,32
+4462,Boston College,MA,ACC,Private,1996,37
+4463,Rutgers University-New Brunswick,NJ,Big 10,Public,1996,45
+4464,Tufts University,MA,NESCAC,Private,1996,25
+4465,University of Washington,WA,Big 10,Public,1996,50
+4470,Lehigh University,PA,Patriot,Private,1996,33
+4473,University of Rochester,NY,UAA,Private,1996,29
+4475,Wake Forest University,NC,ACC,Private,1996,31
+4476,Case Western Reserve University,OH,UAA,Private,1996,35
+4477,College of William and Mary,VA,CAA,Public,1996,34
+4483,Brandeis University,MA,UAA,Private,1996,30
+4486,Pennsylvania State University-University Park,PA,Big 10,Public,1996,41
+4487,Rensselaer Polytechnic Institute,NY,Liberty,Private,1996,39
+4491,Syracuse University,NY,ACC,Private,1996,49
+4498,Tulane University,LA,AAC,Private,1996,38
+4582,Princeton University,NJ,Ivy League,Private,1995,2
+4583,Massachusetts Institute of Technology,MA,NEWMAC,Private,1995,4
+4584,Harvard University,MA,Ivy League,Private,1995,1
+4585,Stanford University,CA,ACC,Private,1995,5
+4586,Yale University,CT,Ivy League,Private,1995,3
+4587,University of Pennsylvania,PA,Ivy League,Private,1995,12
+4588,California Institute of Technology,CA,SCIAC,Private,1995,7
+4589,Duke University,NC,ACC,Private,1995,6
+4590,Brown University,RI,Ivy League,Private,1995,11
+4591,Johns Hopkins University,MD,Centennial,Private,1995,22
+4592,Northwestern University,IL,Big 10,Private,1995,14
+4593,Columbia University,NY,Ivy League,Private,1995,9
+4594,Cornell University,NY,Ivy League,Private,1995,15
+4595,University of Chicago,IL,UAA,Private,1995,10
+4596,University of California-Berkeley,CA,ACC,Public,1995,23
+4598,Rice University,TX,AAC,Private,1995,12
+4599,Dartmouth College,NH,Ivy League,Private,1995,8
+4600,Vanderbilt University,TN,SEC,Private,1995,18
+4601,University of Notre Dame,IN,ACC,Private,1995,19
+4602,University of Michigan-Ann Arbor,MI,Big 10,Public,1995,21
+4603,Georgetown University,DC,Big East,Private,1995,25
+4605,Carnegie Mellon University,PA,UAA,Private,1995,24
+4606,Emory University,GA,UAA,Private,1995,16
+4607,University of Virginia,VA,ACC,Public,1995,17
+4608,Washington University in St. Louis,MO,UAA,Private,1995,20
+4740,Princeton University,NJ,Ivy League,Private,1994,2
+4741,Massachusetts Institute of Technology,MA,NEWMAC,Private,1994,4
+4742,Harvard University,MA,Ivy League,Private,1994,1
+4743,Stanford University,CA,ACC,Private,1994,6
+4744,Yale University,CT,Ivy League,Private,1994,3
+4745,University of Pennsylvania,PA,Ivy League,Private,1994,16
+4746,California Institute of Technology,CA,SCIAC,Private,1994,5
+4747,Duke University,NC,ACC,Private,1994,7
+4748,Brown University,RI,Ivy League,Private,1994,12
+4749,Johns Hopkins University,MD,Centennial,Private,1994,15
+4750,Northwestern University,IL,Big 10,Private,1994,13
+4751,Columbia University,NY,Ivy League,Private,1994,11
+4752,Cornell University,NY,Ivy League,Private,1994,10
+4753,University of Chicago,IL,UAA,Private,1994,9
+4754,University of California-Berkeley,CA,ACC,Public,1994,19
+4755,University of California-Los Angeles,CA,Big 10,Public,1994,22
+4756,Rice University,TX,AAC,Private,1994,14
+4757,Dartmouth College,NH,Ivy League,Private,1994,8
+4758,Vanderbilt University,TN,SEC,Private,1994,20
+4759,University of Notre Dame,IN,ACC,Private,1994,25
+4760,University of Michigan-Ann Arbor,MI,Big 10,Public,1994,23
+4761,Georgetown University,DC,Big East,Private,1994,17
+4763,Carnegie Mellon University,PA,UAA,Private,1994,24
+4764,Emory University,GA,UAA,Private,1994,25
+4765,University of Virginia,VA,ACC,Public,1994,21
+4766,Washington University in St. Louis,MO,UAA,Private,1994,18
+4898,Princeton University,NJ,Ivy League,Private,1993,2
+4899,Massachusetts Institute of Technology,MA,NEWMAC,Private,1993,5
+4900,Harvard University,MA,Ivy League,Private,1993,1
+4901,Stanford University,CA,ACC,Private,1993,4
+4902,Yale University,CT,Ivy League,Private,1993,3
+4903,University of Pennsylvania,PA,Ivy League,Private,1993,14
+4904,California Institute of Technology,CA,SCIAC,Private,1993,5
+4905,Duke University,NC,ACC,Private,1993,7
+4906,Brown University,RI,Ivy League,Private,1993,18
+4907,Johns Hopkins University,MD,Centennial,Private,1993,15
+4908,Northwestern University,IL,Big 10,Private,1993,13
+4909,Columbia University,NY,Ivy League,Private,1993,10
+4910,Cornell University,NY,Ivy League,Private,1993,11
+4911,University of Chicago,IL,UAA,Private,1993,9
+4912,University of California-Berkeley,CA,ACC,Public,1993,16
+4913,University of California-Los Angeles,CA,Big 10,Public,1993,23
+4914,Rice University,TX,AAC,Private,1993,12
+4915,Dartmouth College,NH,Ivy League,Private,1993,7
+4916,Vanderbilt University,TN,SEC,Private,1993,25
+4918,University of Michigan-Ann Arbor,MI,Big 10,Public,1993,24
+4919,Georgetown University,DC,Big East,Private,1993,17
+4921,Carnegie Mellon University,PA,UAA,Private,1993,19
+4922,Emory University,GA,UAA,Private,1993,21
+4923,University of Virginia,VA,ACC,Public,1993,22
+4924,Washington University in St. Louis,MO,UAA,Private,1993,20
+5056,Princeton University,NJ,Ivy League,Private,1992,4
+5057,Massachusetts Institute of Technology,MA,NEWMAC,Private,1992,6
+5058,Harvard University,MA,Ivy League,Private,1992,1
+5059,Stanford University,CA,ACC,Private,1992,3
+5060,Yale University,CT,Ivy League,Private,1992,2
+5061,University of Pennsylvania,PA,Ivy League,Private,1992,13
+5062,California Institute of Technology,CA,SCIAC,Private,1992,4
+5063,Duke University,NC,ACC,Private,1992,7
+5064,Brown University,RI,Ivy League,Private,1992,17
+5065,Johns Hopkins University,MD,Centennial,Private,1992,11
+5066,Northwestern University,IL,Big 10,Private,1992,14
+5067,Columbia University,NY,Ivy League,Private,1992,9
+5068,Cornell University,NY,Ivy League,Private,1992,12
+5069,University of Chicago,IL,UAA,Private,1992,10
+5070,University of California-Berkeley,CA,ACC,Public,1992,16
+5071,University of California-Los Angeles,CA,Big 10,Public,1992,23
+5072,Rice University,TX,AAC,Private,1992,15
+5073,Dartmouth College,NH,Ivy League,Private,1992,8
+5074,Vanderbilt University,TN,SEC,Private,1992,19
+5076,University of Michigan-Ann Arbor,MI,Big 10,Public,1992,22
+5077,Georgetown University,DC,Big East,Private,1992,19
+5078,University of North Carolina-Chapel Hill,NC,ACC,Public,1992,25
+5079,Carnegie Mellon University,PA,UAA,Private,1992,24
+5081,University of Virginia,VA,ACC,Public,1992,21
+5082,Washington University in St. Louis,MO,UAA,Private,1992,18
+5214,Princeton University,NJ,Ivy League,Private,1991,4
+5215,Massachusetts Institute of Technology,MA,NEWMAC,Private,1991,6
+5216,Harvard University,MA,Ivy League,Private,1991,1
+5217,Stanford University,CA,ACC,Private,1991,2
+5218,Yale University,CT,Ivy League,Private,1991,3
+5219,University of Pennsylvania,PA,Ivy League,Private,1991,13
+5220,California Institute of Technology,CA,SCIAC,Private,1991,5
+5221,Duke University,NC,ACC,Private,1991,7
+5222,Brown University,RI,Ivy League,Private,1991,12
+5223,Johns Hopkins University,MD,Centennial,Private,1991,15
+5224,Northwestern University,IL,Big 10,Private,1991,23
+5225,Columbia University,NY,Ivy League,Private,1991,10
+5226,Cornell University,NY,Ivy League,Private,1991,9
+5227,University of Chicago,IL,UAA,Private,1991,11
+5228,University of California-Berkeley,CA,ACC,Public,1991,13
+5229,University of California-Los Angeles,CA,Big 10,Public,1991,17
+5230,Rice University,TX,AAC,Private,1991,16
+5231,Dartmouth College,NH,Ivy League,Private,1991,8
+5234,University of Michigan-Ann Arbor,MI,Big 10,Public,1991,21
+5235,Georgetown University,DC,Big East,Private,1991,19
+5236,University of North Carolina-Chapel Hill,NC,ACC,Public,1991,20
+5237,Carnegie Mellon University,PA,UAA,Private,1991,22
+5239,University of Virginia,VA,ACC,Public,1991,18
+5240,Washington University in St. Louis,MO,UAA,Private,1991,24
+5263,University of Rochester,NY,UAA,Private,1991,25
+5372,Princeton University,NJ,Ivy League,Private,1990,2
+5373,Massachusetts Institute of Technology,MA,NEWMAC,Private,1990,7
+5374,Harvard University,MA,Ivy League,Private,1990,3
+5375,Stanford University,CA,ACC,Private,1990,6
+5376,Yale University,CT,Ivy League,Private,1990,1
+5377,University of Pennsylvania,PA,Ivy League,Private,1990,20
+5378,California Institute of Technology,CA,SCIAC,Private,1990,4
+5379,Duke University,NC,ACC,Private,1990,5
+5380,Brown University,RI,Ivy League,Private,1990,15
+5381,Johns Hopkins University,MD,Centennial,Private,1990,14
+5382,Northwestern University,IL,Big 10,Private,1990,19
+5383,Columbia University,NY,Ivy League,Private,1990,11
+5384,Cornell University,NY,Ivy League,Private,1990,11
+5385,University of Chicago,IL,UAA,Private,1990,9
+5386,University of California-Berkeley,CA,ACC,Public,1990,13
+5387,University of California-Los Angeles,CA,Big 10,Public,1990,16
+5388,Rice University,TX,AAC,Private,1990,10
+5389,Dartmouth College,NH,Ivy League,Private,1990,8
+5390,Vanderbilt University,TN,SEC,Private,1990,24
+5391,University of Notre Dame,IN,ACC,Private,1990,23
+5392,University of Michigan-Ann Arbor,MI,Big 10,Public,1990,17
+5393,Georgetown University,DC,Big East,Private,1990,25
+5394,University of North Carolina-Chapel Hill,NC,ACC,Public,1990,18
+5397,University of Virginia,VA,ACC,Public,1990,21
+5398,Washington University in St. Louis,MO,UAA,Private,1990,22
+5530,Princeton University,NJ,Ivy League,Private,1989,2
+5531,Massachusetts Institute of Technology,MA,NEWMAC,Private,1989,5
+5532,Harvard University,MA,Ivy League,Private,1989,4
+5533,Stanford University,CA,ACC,Private,1989,6
+5534,Yale University,CT,Ivy League,Private,1989,1
+5535,University of Pennsylvania,PA,Ivy League,Private,1989,15
+5536,California Institute of Technology,CA,SCIAC,Private,1989,3
+5537,Duke University,NC,ACC,Private,1989,12
+5538,Brown University,RI,Ivy League,Private,1989,13
+5539,Johns Hopkins University,MD,Centennial,Private,1989,11
+5540,Northwestern University,IL,Big 10,Private,1989,16
+5541,Columbia University,NY,Ivy League,Private,1989,8
+5542,Cornell University,NY,Ivy League,Private,1989,14
+5543,University of Chicago,IL,UAA,Private,1989,10
+5544,University of California-Berkeley,CA,ACC,Public,1989,24
+5545,University of California-Los Angeles,CA,Big 10,Public,1989,21
+5546,Rice University,TX,AAC,Private,1989,9
+5547,Dartmouth College,NH,Ivy League,Private,1989,7
+5549,University of Notre Dame,IN,ACC,Private,1989,18
+5550,University of Michigan-Ann Arbor,MI,Big 10,Public,1989,25
+5551,Georgetown University,DC,Big East,Private,1989,17
+5552,University of North Carolina-Chapel Hill,NC,ACC,Public,1989,23
+5554,Emory University,GA,UAA,Private,1989,22
+5555,University of Virginia,VA,ACC,Public,1989,20
+5556,Washington University in St. Louis,MO,UAA,Private,1989,19
+5688,Princeton University,NJ,Ivy League,Private,1988,4
+5689,Massachusetts Institute of Technology,MA,NEWMAC,Private,1988,11
+5690,Harvard University,MA,Ivy League,Private,1988,2
+5691,Stanford University,CA,ACC,Private,1988,1
+5692,Yale University,CT,Ivy League,Private,1988,3
+5693,University of Pennsylvania,PA,Ivy League,Private,1988,19
+5694,California Institute of Technology,CA,SCIAC,Private,1988,21
+5695,Duke University,NC,ACC,Private,1988,7
+5696,Brown University,RI,Ivy League,Private,1988,10
+5697,Johns Hopkins University,MD,Centennial,Private,1988,16
+5698,Northwestern University,IL,Big 10,Private,1988,17
+5699,Columbia University,NY,Ivy League,Private,1988,18
+5700,Cornell University,NY,Ivy League,Private,1988,11
+5701,University of Chicago,IL,UAA,Private,1988,8
+5702,University of California-Berkeley,CA,ACC,Public,1988,5
+5704,Rice University,TX,AAC,Private,1988,14
+5705,Dartmouth College,NH,Ivy League,Private,1988,6
+5708,University of Michigan-Ann Arbor,MI,Big 10,Public,1988,8
+5710,University of North Carolina-Chapel Hill,NC,ACC,Public,1988,11
+5712,Emory University,GA,UAA,Private,1988,25
+5713,University of Virginia,VA,ACC,Public,1988,15
+5714,Washington University in St. Louis,MO,UAA,Private,1988,23
+5719,University of Texas-Austin,TX,SEC,Public,1988,25
+5724,University of Illinois-Urbana-Champaign,IL,Big 10,Public,1988,20
+5725,University of Wisconsin-Madison,WI,Big 10,Public,1988,23
+5741,College of William and Mary,VA,CAA,Public,1988,22
+5846,Princeton University,NJ,Ivy League,Private,1986,4
+5848,Harvard University,MA,Ivy League,Private,1986,2
+5849,Stanford University,CA,ACC,Private,1986,1
+5850,Yale University,CT,Ivy League,Private,1986,2
+5853,Duke University,NC,ACC,Private,1986,6
+5854,Brown University,RI,Ivy League,Private,1986,7
+5859,University of Chicago,IL,UAA,Private,1986,5
+5860,University of California-Berkeley,CA,ACC,Public,1986,7
+5863,Dartmouth College,NH,Ivy League,Private,1986,10
+5868,University of North Carolina-Chapel Hill,NC,ACC,Public,1986,9
+6004,Princeton University,NJ,Ivy League,Private,1984,4
+6005,Massachusetts Institute of Technology,MA,NEWMAC,Private,1984,10
+6006,Harvard University,MA,Ivy League,Private,1984,2
+6007,Stanford University,CA,ACC,Private,1984,1
+6008,Yale University,CT,Ivy League,Private,1984,3
+6010,California Institute of Technology,CA,SCIAC,Private,1984,12
+6016,Cornell University,NY,Ivy League,Private,1984,8
+6017,University of Chicago,IL,UAA,Private,1984,6
+6018,University of California-Berkeley,CA,ACC,Public,1984,5
+6021,Dartmouth College,NH,Ivy League,Private,1984,10
+6024,University of Michigan-Ann Arbor,MI,Big 10,Public,1984,7
+6027,Carnegie Mellon University,PA,UAA,Private,1984,13
+6040,University of Illinois-Urbana-Champaign,IL,Big 10,Public,1984,8
+6041,University of Wisconsin-Madison,WI,Big 10,Public,1984,13
