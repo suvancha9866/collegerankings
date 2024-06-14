@@ -4,14 +4,6 @@ body {
     color: orange;
     margin: 5px;
 }
-/*
-.dropdown > .Select-control {
-    width: 90%;
-    border: 2px solid black;
-    border-radius: 20px;
-    background-color: rgb(48, 48, 48);
-}
-*/
 
 #dropdown .Select-control {
     background-color: rgb(55, 55, 55) !important;

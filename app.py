@@ -73,7 +73,7 @@ app.layout = html.Div([
     
 ])
 
-@app.callback(
+@callback(
     Output('output-graph', 'figure'),
     Input('dropdown', 'value')
 )

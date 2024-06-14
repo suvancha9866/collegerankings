@@ -4,10 +4,4 @@
 
 https://www.kaggle.com/code/joebeachcapital/us-university-college-rankings-data-import/notebook
 
-Have groups for ivys, many other big conferences
-Public and Private
-
-Plan: Have an interactive python line chart with all of the colleges over time.
-Pop up shows the year, College in Bold, and rank
-
-Add Cloropleth map on the dash board
+This was a project I did for fun where I map an interactive graph where it shows teh historical ranking of top colleges in the US. The data set goes from 1986-2024. This was just to get to use more technologies like Dash and Plotly.
